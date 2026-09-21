@@ -1,0 +1,1399 @@
+ERC report (2026-09-21T00:29:13, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(62.23 mm, 97.79 mm): Global Label 'PROCHOT#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(62.23 mm, 109.22 mm): Global Label 'CPU_VCCST_PWRGD'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 71.12 mm): Global Label 'PEG_RX_1P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 74.93 mm): Global Label 'PEG_RX_1N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 86.36 mm): Global Label 'PEG_RX_2P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 90.17 mm): Global Label 'PEG_RX_2N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 101.60 mm): Global Label 'PEG_RX_3P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 105.41 mm): Global Label 'PEG_RX_3N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 116.84 mm): Global Label 'PEG_RX_4P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 120.65 mm): Global Label 'PEG_RX_4N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 132.08 mm): Global Label 'PEG_RX_5P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 135.89 mm): Global Label 'PEG_RX_5N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 147.32 mm): Global Label 'PEG_RX_6P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 151.13 mm): Global Label 'PEG_RX_6N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 162.56 mm): Global Label 'PEG_RX_0P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 166.37 mm): Global Label 'PEG_RX_0N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 170.18 mm): Global Label 'PEG_RX_7P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 173.99 mm): Global Label 'PEG_RX_7N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(52.07 mm, 185.42 mm): Global Label 'PEG_RX_8P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 63.50 mm): Global Label 'PEG_RX_8N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 74.93 mm): Global Label 'PEG_RX_9P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 78.74 mm): Global Label 'PEG_RX_9N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 90.17 mm): Global Label 'PEG_RX_10P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 93.98 mm): Global Label 'PEG_RX_10N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 105.41 mm): Global Label 'PEG_RX_11P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 109.22 mm): Global Label 'PEG_RX_11N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 120.65 mm): Global Label 'PEG_RX_12P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 124.46 mm): Global Label 'PEG_RX_12N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 135.89 mm): Global Label 'PEG_RX_13P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 139.70 mm): Global Label 'PEG_RX_13N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 151.13 mm): Global Label 'PEG_RX_14P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 154.94 mm): Global Label 'PEG_RX_14N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 166.37 mm): Global Label 'PEG_RX_15P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(148.59 mm, 170.18 mm): Global Label 'PEG_RX_15N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 68.58 mm): Global Label 'CARRIER_PEG_TX_0P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 83.82 mm): Global Label 'CARRIER_PEG_TX_0N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 99.06 mm): Global Label 'CARRIER_PEG_TX_1P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 114.30 mm): Global Label 'CARRIER_PEG_TX_1N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 128.27 mm): Global Label 'CARRIER_PEG_TX_2P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 143.51 mm): Global Label 'CARRIER_PEG_TX_2N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 158.75 mm): Global Label 'CARRIER_PEG_TX_3P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 173.99 mm): Global Label 'CARRIER_PEG_TX_3N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 189.23 mm): Global Label 'CARRIER_PEG_TX_4P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 203.20 mm): Global Label 'CARRIER_PEG_TX_4N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 218.44 mm): Global Label 'CARRIER_PEG_TX_5P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 233.68 mm): Global Label 'CARRIER_PEG_TX_5N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 248.92 mm): Global Label 'CARRIER_PEG_TX_6P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 264.16 mm): Global Label 'CARRIER_PEG_TX_6N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 279.40 mm): Global Label 'CARRIER_PEG_TX_7P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(330.20 mm, 293.37 mm): Global Label 'CARRIER_PEG_TX_7N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 68.58 mm): Global Label 'CARRIER_PEG_TX_8P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 83.82 mm): Global Label 'CARRIER_PEG_TX_8N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 99.06 mm): Global Label 'CARRIER_PEG_TX_9P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 114.30 mm): Global Label 'CARRIER_PEG_TX_9N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 128.27 mm): Global Label 'CARRIER_PEG_TX_10P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 143.51 mm): Global Label 'CARRIER_PEG_TX_10N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 158.75 mm): Global Label 'CARRIER_PEG_TX_11P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 173.99 mm): Global Label 'CARRIER_PEG_TX_11N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 189.23 mm): Global Label 'CARRIER_PEG_TX_12P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 203.20 mm): Global Label 'CARRIER_PEG_TX_12N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 218.44 mm): Global Label 'CARRIER_PEG_TX_13P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 233.68 mm): Global Label 'CARRIER_PEG_TX_13N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 248.92 mm): Global Label 'CARRIER_PEG_TX_14P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 264.16 mm): Global Label 'CARRIER_PEG_TX_14N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 279.40 mm): Global Label 'CARRIER_PEG_TX_15P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(459.74 mm, 293.37 mm): Global Label 'CARRIER_PEG_TX_15N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(139.70 mm, 314.96 mm): Global Label 'DDR_A_VREF_DQ'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(139.70 mm, 314.96 mm): Global Label 'DDR_B_VREF_DQ'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(163.83 mm, 146.05 mm): Global Label 'DDR_VTT_PGOOD'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 74.93 mm): Global Label 'CPU_VCCST'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 78.74 mm): Global Label 'CPU_VCCFUSEPRG'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 82.55 mm): Global Label 'CPU_VCCSFR'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 90.17 mm): Global Label 'CPU_VCCPLL_OC'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 93.98 mm): Global Label 'CPU_VCCSA_SENSE'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 97.79 mm): Global Label 'CPU_VCCIO_SENSE'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 101.60 mm): Global Label 'CPU_VSS_SAIO_SENSE'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 63.50 mm): Global Label 'CPU_VCCGT_SENSE'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 71.12 mm): Global Label 'CPU_VCCCOREG0'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 74.93 mm): Global Label 'CPU_VCCCOREG1'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 78.74 mm): Global Label 'CPU_VCCCOREG3'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 82.55 mm): Global Label 'CPU_VCCCOREG4'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 93.98 mm): Global Label 'CPU_VCC_SENSE'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 63.50 mm): Global Label 'CPU_DDI1_TXP[0]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 67.31 mm): Global Label 'CPU_DDI1_TXN[0]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 71.12 mm): Global Label 'CPU_DDI1_TXP[1]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 74.93 mm): Global Label 'CPU_DDI1_TXN[1]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 78.74 mm): Global Label 'CPU_DDI1_TXP[2]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 82.55 mm): Global Label 'CPU_DDI1_TXN[2]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 86.36 mm): Global Label 'CPU_DDI1_TXP[3]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 90.17 mm): Global Label 'CPU_DDI1_TXN[3]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 93.98 mm): Global Label 'CPU_EDP_TXP[0]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 97.79 mm): Global Label 'CPU_EDP_TXN[0]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 101.60 mm): Global Label 'CPU_EDP_TXP[1]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 105.41 mm): Global Label 'CPU_EDP_TXN[1]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 109.22 mm): Global Label 'CPU_EDP_TXP[2]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 113.03 mm): Global Label 'CPU_EDP_TXN[2]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 116.84 mm): Global Label 'CPU_EDP_TXP[3]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 120.65 mm): Global Label 'CPU_EDP_TXN[3]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 124.46 mm): Global Label 'CPU_DDI1_AUXP'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 128.27 mm): Global Label 'CPU_DDI1_AUXN'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 132.08 mm): Global Label 'CPU_EDP_AUXP'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 135.89 mm): Global Label 'CPU_EDP_AUXN'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 139.70 mm): Global Label 'CPU_DDI2_TXP[0]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 143.51 mm): Global Label 'CPU_DDI2_TXN[0]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(96.52 mm, 147.32 mm): Global Label 'CPU_DDI2_TXP[1]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 63.50 mm): Global Label 'CPU_DDI2_TXN[1]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 67.31 mm): Global Label 'CPU_DDI2_TXP[2]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 71.12 mm): Global Label 'CPU_DDI2_TXN[2]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 74.93 mm): Global Label 'CPU_DDI2_TXP[3]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 78.74 mm): Global Label 'CPU_DDI2_TXN[3]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 82.55 mm): Global Label 'CPU_EDP_DISP_UTIL'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 90.17 mm): Global Label 'CPU_DDI2_AUXP'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 93.98 mm): Global Label 'CPU_DDI2_AUXN'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 97.79 mm): Global Label 'CPU_DDI3_TXP[0]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 101.60 mm): Global Label 'CPU_DDI3_TXN[0]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 105.41 mm): Global Label 'CPU_DDI3_TXP[1]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 109.22 mm): Global Label 'CPU_DDI3_TXN[1]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 113.03 mm): Global Label 'CPU_DDI3_TXP[2]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 116.84 mm): Global Label 'CPU_DDI3_TXN[2]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 120.65 mm): Global Label 'CPU_DDI3_TXP[3]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 124.46 mm): Global Label 'CPU_DDI3_TXN[3]'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 128.27 mm): Global Label 'CPU_DDI3_AUXP'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 132.08 mm): Global Label 'CPU_DDI3_AUXN'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 135.89 mm): Global Label 'CPU_PROC_AUDIO_CLK'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 139.70 mm): Global Label 'CPU_PROC_AUDIO_SDI'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(193.04 mm, 143.51 mm): Global Label 'CPU_PROC_AUDIO_SDO'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 63.50 mm): Global Label 'PCH_PCIE22_RX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 67.31 mm): Global Label 'PCH_PCIE22_TX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 71.12 mm): Global Label 'PCH_PCIE22_TX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 74.93 mm): Global Label 'PCH_PCIE23_RX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 78.74 mm): Global Label 'PCH_PCIE23_RX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 82.55 mm): Global Label 'PCH_PCIE23_TX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 86.36 mm): Global Label 'PCH_PCIE23_TX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 90.17 mm): Global Label 'PCH_PCIE24_RX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 93.98 mm): Global Label 'PCH_PCIE24_RX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 97.79 mm): Global Label 'PCH_PCIE24_TX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 101.60 mm): Global Label 'PCH_PCIE24_TX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 105.41 mm): Global Label 'PCH_PCIE10_RX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 109.22 mm): Global Label 'PCH_PCIE10_RX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 113.03 mm): Global Label 'PCH_PCIE10_TX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(101.60 mm, 116.84 mm): Global Label 'PCH_PCIE10_TX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 74.93 mm): Global Label 'PCH_PCIE7_RX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 78.74 mm): Global Label 'PCH_PCIE7_RX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 82.55 mm): Global Label 'PCH_PCIE7_TX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 86.36 mm): Global Label 'PCH_PCIE7_TX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 90.17 mm): Global Label 'PCH_PCIE8_RX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 93.98 mm): Global Label 'PCH_PCIE21_RX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 97.79 mm): Global Label 'PCH_PCIE8_RX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 101.60 mm): Global Label 'PCH_PCIE21_RX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 105.41 mm): Global Label 'PCH_PCIE21_TX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 109.22 mm): Global Label 'PCH_PCIE8_TX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 113.03 mm): Global Label 'PCH_PCIE8_TX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 116.84 mm): Global Label 'PCH_PCIE21_TX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 120.65 mm): Global Label 'PCH_PCIE9_RX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 124.46 mm): Global Label 'PCH_PCIE22_RX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 128.27 mm): Global Label 'PCH_PCIE9_RX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 132.08 mm): Global Label 'PCH_PCIE9_TX_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(198.12 mm, 135.89 mm): Global Label 'PCH_PCIE9_TX_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 93.98 mm): Global Label 'RTCRST#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 97.79 mm): Global Label 'SRTCRST#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 101.60 mm): Global Label 'RSMRST#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 105.41 mm): Global Label 'DSW_PWROK'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 109.22 mm): Global Label 'SYS_PWROK'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 113.03 mm): Global Label 'SYS_RESET#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 116.84 mm): Global Label 'PCH_XTAL_IN'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 93.98 mm): Global Label 'PWRBTN#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 97.79 mm): Global Label 'SLP_S3#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 101.60 mm): Global Label 'SLP_S4#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 105.41 mm): Global Label 'SLP_S5#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 63.50 mm): Global Label 'EXPORT_USB2N_8'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 67.31 mm): Global Label 'EXPORT_USB2N_9'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 74.93 mm): Global Label 'EXPORT_USB2P_10'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 78.74 mm): Global Label 'EXPORT_USB2P_11'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 82.55 mm): Global Label 'EXPORT_USB2P_12'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 86.36 mm): Global Label 'EXPORT_USB2P_13'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 90.17 mm): Global Label 'EXPORT_USB2P_14'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 93.98 mm): Global Label 'EXPORT_USB2P_2'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 97.79 mm): Global Label 'EXPORT_USB2P_3'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 101.60 mm): Global Label 'EXPORT_USB2P_4'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 105.41 mm): Global Label 'EXPORT_USB2P_5'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 109.22 mm): Global Label 'EXPORT_USB2P_6'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 113.03 mm): Global Label 'EXPORT_USB2P_7'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 116.84 mm): Global Label 'EXPORT_USB2P_8'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 120.65 mm): Global Label 'EXPORT_USB2P_9'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 128.27 mm): Global Label 'EXPORT_USB2N_10'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 132.08 mm): Global Label 'EXPORT_USB2N_11'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 135.89 mm): Global Label 'EXPORT_USB2N_12'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 139.70 mm): Global Label 'EXPORT_USB2N_13'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 143.51 mm): Global Label 'EXPORT_USB2N_14'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 147.32 mm): Global Label 'EXPORT_USB2N_2'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 151.13 mm): Global Label 'EXPORT_USB2N_3'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 154.94 mm): Global Label 'EXPORT_USB2N_4'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 158.75 mm): Global Label 'EXPORT_USB2N_5'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 162.56 mm): Global Label 'EXPORT_USB2N_6'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 166.37 mm): Global Label 'EXPORT_USB2N_7'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 170.18 mm): Global Label 'EXPORT_CLKOUT_PCIE_P5'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(111.76 mm, 173.99 mm): Global Label 'EXPORT_CLKOUT_PCIE_P6'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 63.50 mm): Global Label 'EXPORT_CLKOUT_PCIE_P7'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 67.31 mm): Global Label 'EXPORT_CLKOUT_PCIE_P8'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 71.12 mm): Global Label 'EXPORT_CLKOUT_PCIE_P9'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 78.74 mm): Global Label 'EXPORT_CLKOUT_PCIE_N1'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 82.55 mm): Global Label 'EXPORT_CLKOUT_PCIE_N10'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 86.36 mm): Global Label 'EXPORT_CLKOUT_PCIE_N11'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 90.17 mm): Global Label 'EXPORT_CLKOUT_PCIE_N12'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 93.98 mm): Global Label 'EXPORT_CLKOUT_PCIE_N13'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 97.79 mm): Global Label 'EXPORT_CLKOUT_PCIE_N14'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 101.60 mm): Global Label 'EXPORT_CLKOUT_PCIE_N15'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 105.41 mm): Global Label 'EXPORT_CLKOUT_PCIE_N2'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 109.22 mm): Global Label 'EXPORT_CLKOUT_PCIE_N3'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 113.03 mm): Global Label 'EXPORT_CLKOUT_PCIE_N4'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 116.84 mm): Global Label 'EXPORT_CLKOUT_PCIE_N5'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 120.65 mm): Global Label 'EXPORT_CLKOUT_PCIE_N6'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 124.46 mm): Global Label 'EXPORT_CLKOUT_PCIE_N7'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 128.27 mm): Global Label 'EXPORT_CLKOUT_PCIE_N8'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 132.08 mm): Global Label 'EXPORT_CLKOUT_PCIE_N9'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 139.70 mm): Global Label 'EXPORT_CLKOUT_PCIE_P1'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 143.51 mm): Global Label 'EXPORT_CLKOUT_PCIE_P10'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 147.32 mm): Global Label 'EXPORT_CLKOUT_PCIE_P11'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 151.13 mm): Global Label 'EXPORT_CLKOUT_PCIE_P12'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 154.94 mm): Global Label 'EXPORT_CLKOUT_PCIE_P13'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 158.75 mm): Global Label 'EXPORT_CLKOUT_PCIE_P14'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 162.56 mm): Global Label 'EXPORT_CLKOUT_PCIE_P15'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 166.37 mm): Global Label 'EXPORT_CLKOUT_PCIE_P2'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 170.18 mm): Global Label 'EXPORT_CLKOUT_PCIE_P3'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(208.28 mm, 173.99 mm): Global Label 'EXPORT_CLKOUT_PCIE_P4'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(121.92 mm, 71.12 mm): Global Label 'PCH_VCCPRIM_MPHY_1P05'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(121.92 mm, 74.93 mm): Global Label 'PCH_VCCA_BCLK_1P05'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(218.44 mm, 67.31 mm): Global Label 'PCH_VCCHDA'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(218.44 mm, 71.12 mm): Global Label 'PCH_VCCMPHY_SENSE'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(218.44 mm, 74.93 mm): Global Label 'PCH_VCCPGPPA'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(218.44 mm, 82.55 mm): Global Label 'PCH_VCCPGPPD'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(218.44 mm, 93.98 mm): Global Label 'PCH_VCCPGPPG_3P3'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(218.44 mm, 109.22 mm): Global Label 'PCH_VSSMPHY_SENSE'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 71.12 mm): Global Label 'BMC_REFCLK_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 86.36 mm): Global Label 'BMC_SRST#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 90.17 mm): Global Label 'BMC_EXTRST#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 93.98 mm): Global Label 'BMC_CLKIN'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 109.22 mm): Global Label 'BMC_USB2AVRES'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 74.93 mm): Global Label 'VR_UGATE2_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 82.55 mm): Global Label 'VR_LGATE2_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 86.36 mm): Global Label 'VR_PWM3_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 90.17 mm): Global Label 'VR_NC/PWM4_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 93.98 mm): Global Label 'VR_COMP_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 97.79 mm): Global Label 'VR_ISEN1_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 101.60 mm): Global Label 'VR_ISEN2_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 105.41 mm): Global Label 'VR_ISEN3_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 109.22 mm): Global Label 'VR_NC/ISEN4_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 113.03 mm): Global Label 'VR_FB_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 116.84 mm): Global Label 'VR_ISUMP_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 120.65 mm): Global Label 'VR_FB2_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 128.27 mm): Global Label 'VR_ISUMN_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 132.08 mm): Global Label 'VR_NTC_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 135.89 mm): Global Label 'VR_IMON_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 143.51 mm): Global Label 'VR_UGATE1_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 151.13 mm): Global Label 'VR_LGATE1_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 154.94 mm): Global Label 'VR_FB_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 158.75 mm): Global Label 'VR_FB2_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 162.56 mm): Global Label 'VR_PWM2_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 63.50 mm): Global Label 'VR_COMP_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 67.31 mm): Global Label 'VR_PSYS'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 78.74 mm): Global Label 'VR_UGATE1_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 86.36 mm): Global Label 'VR_LGATE1_A'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 101.60 mm): Global Label 'CPU_VR_ENABLE'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 105.41 mm): Global Label 'CPU_VR_READY'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 109.22 mm): Global Label 'CPU_VR_HOT#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 116.84 mm): Global Label 'VR_NC/PWM3_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 120.65 mm): Global Label 'VR_ISEN1_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 124.46 mm): Global Label 'VR_ISEN2_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 128.27 mm): Global Label 'VR_NC/ISEN3_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 132.08 mm): Global Label 'VR_ISUMN_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 135.89 mm): Global Label 'VR_NTC_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 143.51 mm): Global Label 'VR_IMON_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 147.32 mm): Global Label 'VR_ISUMP_B'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(86.36 mm, 63.50 mm): Global Label 'HOST_RSVD1_VCC3P3'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(86.36 mm, 67.31 mm): Global Label 'HOST_LANWAKE_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(86.36 mm, 71.12 mm): Global Label 'HOST_LAN_DISABLE_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(86.36 mm, 78.74 mm): Global Label 'LAN_AUX_3V3'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(86.36 mm, 105.41 mm): Global Label 'HOST_MDI_PLUS0'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(86.36 mm, 109.22 mm): Global Label 'HOST_MDI_MINUS0'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(86.36 mm, 113.03 mm): Global Label 'HOST_MDI_PLUS1'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(86.36 mm, 116.84 mm): Global Label 'HOST_MDI_MINUS1'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(86.36 mm, 120.65 mm): Global Label 'HOST_MDI_PLUS2'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(86.36 mm, 124.46 mm): Global Label 'HOST_MDI_MINUS2'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(86.36 mm, 128.27 mm): Global Label 'HOST_MDI_PLUS3'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(86.36 mm, 132.08 mm): Global Label 'HOST_MDI_MINUS3'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(182.88 mm, 63.50 mm): Global Label 'HOST_LED2'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(182.88 mm, 67.31 mm): Global Label 'HOST_LED0'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(182.88 mm, 71.12 mm): Global Label 'HOST_LED1'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(182.88 mm, 74.93 mm): Global Label 'I219_SML_CLK'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(182.88 mm, 82.55 mm): Global Label 'I219_SML_DATA'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(182.88 mm, 86.36 mm): Global Label 'HOST_JTAG_TDI'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(182.88 mm, 90.17 mm): Global Label 'HOST_JTAG_TMS'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(182.88 mm, 93.98 mm): Global Label 'HOST_JTAG_TDO'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(182.88 mm, 97.79 mm): Global Label 'HOST_JTAG_TCK'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(182.88 mm, 120.65 mm): Global Label 'I219_REFCLK_P'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(182.88 mm, 124.46 mm): Global Label 'I219_REFCLK_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(182.88 mm, 128.27 mm): Global Label 'HOST_CLK_REQ_N'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 63.50 mm): Global Label 'BMC_MDQ0'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 67.31 mm): Global Label 'BMC_MDQ1'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 71.12 mm): Global Label 'BMC_MDQ2'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 74.93 mm): Global Label 'BMC_MDQ3'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 78.74 mm): Global Label 'BMC_MDQ4'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 82.55 mm): Global Label 'BMC_MDQ5'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 86.36 mm): Global Label 'BMC_MDQ6'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 90.17 mm): Global Label 'BMC_MDQ7'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 93.98 mm): Global Label 'BMC_MDQ8'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 97.79 mm): Global Label 'BMC_MDQ9'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 101.60 mm): Global Label 'BMC_MDQ10'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 105.41 mm): Global Label 'BMC_MDQ11'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 109.22 mm): Global Label 'BMC_MDQ12'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 113.03 mm): Global Label 'BMC_MDQ13'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 116.84 mm): Global Label 'BMC_MDQ14'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 120.65 mm): Global Label 'BMC_MDQ15'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 124.46 mm): Global Label 'BMC_MDM0'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 128.27 mm): Global Label 'BMC_MDM1'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 132.08 mm): Global Label 'BMC_MDQS0'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 135.89 mm): Global Label 'BMC_MDQS1'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 139.70 mm): Global Label 'BMC_MDQS0#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 143.51 mm): Global Label 'BMC_MDQS1#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 147.32 mm): Global Label 'BMC_MA0'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 151.13 mm): Global Label 'BMC_MA1'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 154.94 mm): Global Label 'BMC_MA2'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 158.75 mm): Global Label 'BMC_MA3'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(81.28 mm, 162.56 mm): Global Label 'BMC_MA4'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 63.50 mm): Global Label 'BMC_MA5'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 67.31 mm): Global Label 'BMC_MA6'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 71.12 mm): Global Label 'BMC_MA7'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 74.93 mm): Global Label 'BMC_MA8'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 78.74 mm): Global Label 'BMC_MA9'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 82.55 mm): Global Label 'BMC_MA10'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 86.36 mm): Global Label 'BMC_MA11'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 90.17 mm): Global Label 'BMC_MA12'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 93.98 mm): Global Label 'BMC_MA13'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 97.79 mm): Global Label 'BMC_MA14/MACT#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 101.60 mm): Global Label 'BMC_MA15'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 105.41 mm): Global Label 'BMC_MBA0'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 109.22 mm): Global Label 'BMC_MBA1'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 113.03 mm): Global Label 'BMC_MBA2/MBG0'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 116.84 mm): Global Label 'BMC_MCK'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 120.65 mm): Global Label 'BMC_MCK#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 124.46 mm): Global Label 'BMC_MCS#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 128.27 mm): Global Label 'BMC_MRAS#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 132.08 mm): Global Label 'BMC_MCAS#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 135.89 mm): Global Label 'BMC_MWE#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 139.70 mm): Global Label 'BMC_MCKE'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 143.51 mm): Global Label 'BMC_MODT'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 147.32 mm): Global Label 'BMC_MRESET#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(177.80 mm, 151.13 mm): Global Label 'BMC_MALERT#'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(344.17 mm, 128.27 mm): Global Label 'BMC_DDR_1V2'
+
+***** Sheet /CPU / Q370 DMI, clocks and sideband/
+[pin_not_connected]: Pin not connected
+    ; error
+    @(72.39 mm, 105.41 mm): Symbol U1 Pin AC38 [SKTOCC#, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(72.39 mm, 113.03 mm): Symbol U1 Pin H13 [CPU_JTAG_TDO, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(72.39 mm, 116.84 mm): Symbol U1 Pin G12 [CPU_JTAG_TDI, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(72.39 mm, 120.65 mm): Symbol U1 Pin F13 [CPU_JTAG_TMS, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(72.39 mm, 124.46 mm): Symbol U1 Pin F11 [CPU_JTAG_TCK, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(72.39 mm, 128.27 mm): Symbol U1 Pin F12 [CPU_JTAG_TRST#, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(72.39 mm, 132.08 mm): Symbol U1 Pin B9 [PREQ#, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(72.39 mm, 135.89 mm): Symbol U1 Pin B10 [PRDY#, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(72.39 mm, 139.70 mm): Symbol U1 Pin AB36 [SKLKBL_Z_CFL62#, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(72.39 mm, 143.51 mm): Symbol U1 Pin D13 [CATERR#, Passive, Line]
+
+***** Sheet /CPU PEG / two x8 carrier links/
+
+***** Sheet /DDR4 channel A / two SO-DIMMs/
+
+***** Sheet /DDR4 channel B / two SO-DIMMs/
+
+***** Sheet /DDR4 supply interfaces, termination and socket power/
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(153.67 mm, 149.86 mm): Symbol U10 Pin 10 [VIN, Power input, Line]
+
+***** Sheet /CPU rails and power-pin inventory/
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(111.76 mm, 63.50 mm): Symbol U1 Pin AA34 [VCCGT_[80], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(111.76 mm, 67.31 mm): Symbol U1 Pin AA7 [VCCSA_[17], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(111.76 mm, 71.12 mm): Symbol U1 Pin AK11 [VCCIO_[9], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(111.76 mm, 74.93 mm): Symbol U1 Pin V5 [VCCST, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(111.76 mm, 78.74 mm): Symbol U1 Pin V6 [VCCFUSEPRG, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(111.76 mm, 82.55 mm): Symbol U1 Pin V4 [VCCSFR, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(111.76 mm, 86.36 mm): Symbol U1 Pin AT18 [VDDQ_[16], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(111.76 mm, 90.17 mm): Symbol U1 Pin AJ9 [VCCPLL_OC, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(187.96 mm, 71.12 mm): Symbol U1 Pin J17 [VCCCOREG0, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(187.96 mm, 74.93 mm): Symbol U1 Pin B39 [VCCCOREG1, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(187.96 mm, 78.74 mm): Symbol U1 Pin C40 [VCCCOREG3, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(187.96 mm, 82.55 mm): Symbol U1 Pin J19 [VCCCOREG4, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(187.96 mm, 86.36 mm): Symbol U1 Pin H32 [VCC_[146], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(187.96 mm, 90.17 mm): Symbol U1 Pin AK29 [VSS_[389], Power input, Line]
+
+***** Sheet /CPU display and audio interface inventory/
+
+***** Sheet /CPU remaining debug / reserved contacts/
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 63.50 mm): Symbol U1 Pin F14 [NOA_STBP[0], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 67.31 mm): Symbol U1 Pin E14 [NOA_STBN[0], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 71.12 mm): Symbol U1 Pin F18 [NOA_STBP[1], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 74.93 mm): Symbol U1 Pin G18 [NOA_STBN[1], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 78.74 mm): Symbol U1 Pin D16 [MBP#[0], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 82.55 mm): Symbol U1 Pin D17 [MBP#[1], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 86.36 mm): Symbol U1 Pin G14 [MBP#[2], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 90.17 mm): Symbol U1 Pin H14 [MBP#[3], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 93.98 mm): Symbol U1 Pin M11 [NOA_RCOMP, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 97.79 mm): Symbol U1 Pin H15 [NOA_N[0], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 101.60 mm): Symbol U1 Pin F15 [NOA_N[1], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 105.41 mm): Symbol U1 Pin F16 [NOA_N[2], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 109.22 mm): Symbol U1 Pin H16 [NOA_N[3], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 113.03 mm): Symbol U1 Pin F19 [NOA_N[4], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 116.84 mm): Symbol U1 Pin H18 [NOA_N[5], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 120.65 mm): Symbol U1 Pin G21 [NOA_N[6], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 124.46 mm): Symbol U1 Pin H20 [NOA_N[7], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 128.27 mm): Symbol U1 Pin G16 [NOA_N[8], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 132.08 mm): Symbol U1 Pin E16 [NOA_N[9], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 135.89 mm): Symbol U1 Pin F17 [NOA_N[10], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 139.70 mm): Symbol U1 Pin H17 [NOA_N[11], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 143.51 mm): Symbol U1 Pin G20 [NOA_N[12], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 147.32 mm): Symbol U1 Pin F20 [NOA_N[13], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 151.13 mm): Symbol U1 Pin F21 [NOA_N[14], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 154.94 mm): Symbol U1 Pin H19 [NOA_N[15], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 158.75 mm): Symbol U1 Pin J8 [PEG_VIEW[0], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(142.24 mm, 162.56 mm): Symbol U1 Pin J7 [PEG_VIEW[1], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 63.50 mm): Symbol U1 Pin L8 [PEG_VIEW[2], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 67.31 mm): Symbol U1 Pin K8 [PEG_VIEW[3], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 71.12 mm): Symbol U1 Pin AV1 [DDR_VIEW[0], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 74.93 mm): Symbol U1 Pin AW2 [DDR_VIEW[1], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 78.74 mm): Symbol U1 Pin H8 [EXTBGREF, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 82.55 mm): Symbol U1 Pin K10 [FIVR_PROBE_ANA[0], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 86.36 mm): Symbol U1 Pin L10 [FIVR_PROBE_ANA[1], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 90.17 mm): Symbol U1 Pin G8 [CPU_EDM[0], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 93.98 mm): Symbol U1 Pin AY3 [CPU_EDM[1], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 97.79 mm): Symbol U1 Pin D1 [CPU_TRIGGERIN, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 101.60 mm): Symbol U1 Pin B3 [CPUTRIGGEROUT, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 105.41 mm): Symbol U1 Pin L12 [HVM_CLK_P, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 109.22 mm): Symbol U1 Pin K12 [HVM_CLK_N, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 113.03 mm): Symbol U1 Pin AC37 [RSVD_AC37, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 116.84 mm): Symbol U1 Pin AB35 [RSVD_AB35, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 120.65 mm): Symbol U1 Pin AB37 [RSVD_AB37, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 124.46 mm): Symbol U1 Pin AB38 [RSVD_AB38, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 128.27 mm): Symbol U1 Pin AJ22 [RSVD_AJ22, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 132.08 mm): Symbol U1 Pin D15 [RSVD_D15, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 135.89 mm): Symbol U1 Pin K11 [RSVD_K11, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 139.70 mm): Symbol U1 Pin J15 [THERMDA1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 143.51 mm): Symbol U1 Pin J14 [THERMDC1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 147.32 mm): Symbol U1 Pin AU9 [THERMDA2, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 151.13 mm): Symbol U1 Pin AU10 [THERMDC2, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 154.94 mm): Symbol U1 Pin J13 [LGC_SPARE[0], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 158.75 mm): Symbol U1 Pin K13 [LGC_SPARE[1], Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(218.44 mm, 162.56 mm): Symbol U1 Pin J11 [LGC_SPARE[2], Passive, Line]
+
+***** Sheet /Q370 PCIe lane inventory / draft allocation/
+
+***** Sheet /Q370 boot flash, LPC and reset interfaces/
+
+***** Sheet /Q370 USB2 and PCIe clocks/
+
+***** Sheet /Q370 power-domain interface inventory/
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(132.08 mm, 67.31 mm): Symbol U2 Pin AG31 [VCCPRIM_1P05_[29], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(132.08 mm, 71.12 mm): Symbol U2 Pin W31 [VCCPRIM_MPHY_1P05, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(132.08 mm, 74.93 mm): Symbol U2 Pin V19 [VCCA_BCLK_1P05, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(132.08 mm, 82.55 mm): Symbol U2 Pin BC49 [VCCRTC_[2], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(132.08 mm, 86.36 mm): Symbol U2 Pin W19 [VCCA_SRC_1P05_[2], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(132.08 mm, 90.17 mm): Symbol U2 Pin AN44 [VCCSPI, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(132.08 mm, 93.98 mm): Symbol U2 Pin P2 [VCCA_XTAL_1P05_[2], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(132.08 mm, 101.60 mm): Symbol U2 Pin C49 [VCCAMPHYPLL_1P05_[3], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(132.08 mm, 105.41 mm): Symbol U2 Pin B1 [VCCAPLL_1P05_[5], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(132.08 mm, 113.03 mm): Symbol U2 Pin BE48 [VCCDSW_3P3_[2], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(208.28 mm, 63.50 mm): Symbol U2 Pin W22 [VCCDUSB_1P05_[2], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(208.28 mm, 67.31 mm): Symbol U2 Pin BB14 [VCCHDA, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(208.28 mm, 74.93 mm): Symbol U2 Pin AN32 [VCCPGPPA, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(208.28 mm, 78.74 mm): Symbol U2 Pin AN26 [VCCPGPPBC_[2], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(208.28 mm, 82.55 mm): Symbol U2 Pin AN24 [VCCPGPPD, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(208.28 mm, 86.36 mm): Symbol U2 Pin AG19 [VCCPRIM_1P8_[5], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(208.28 mm, 90.17 mm): Symbol U2 Pin AE35 [VCCPGPPEF_[2], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(208.28 mm, 93.98 mm): Symbol U2 Pin AN21 [VCCPGPPG_3P3, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(208.28 mm, 97.79 mm): Symbol U2 Pin AC35 [VCCPGPPHK_[2], Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(208.28 mm, 101.60 mm): Symbol U2 Pin AT44 [VCCPRIM_3P3_[5], Power input, Line]
+
+***** Sheet /AST2500 host links, boot flash and reset/
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(407.67 mm, 74.93 mm): Symbol U12 Pin 8 [VCC, Power input, Line]
+
+***** Sheet /EPS12V input and unresolved regulator interfaces/
+
+***** Sheet /CPU VR controller / source-based starting circuit/
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(167.64 mm, 151.13 mm): Symbol U20 Pin 24 [VDD, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(167.64 mm, 154.94 mm): Symbol U20 Pin 32 [VDDP, Power input, Line]
+
+***** Sheet /Host GbE PHY / I219 reference circuit/
+
+***** Sheet /AST2500 local DDR4 / pin-level interface/
+
+ ** ERC messages: 451  Errors 102  Warnings 349
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

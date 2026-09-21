@@ -1,0 +1,17 @@
+{
+  "R": "SOM:R_0603_1608Metric",
+  "C": "SOM:C_0603_1608Metric",
+  "DDR4_SODIMM_260": "SOM:SODIMM-260_DDR4_H4.0-5.2_OrientationStd_Socket",
+  "TPS51200": "SOM:VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm",
+  "SPI_NOR_8": "SOM:SOIC-8_3.9x4.9mm_P1.27mm",
+  "EPS12V": "SOM:Molex_Mini-Fit_Jr_5566-08A_2x04_P4.20mm_Vertical",
+  "I219_reference": "SOM:Intel_I219_QFN48_EP3",
+  "CoffeeLake_LGA1151": "SOM:CoffeeLake_LGA1151_PLACEMENT_ONLY",
+  "Q370_draft": "SOM:Q370_draft_PLACEMENT_ONLY",
+  "AST2500_host_draft": "SOM:ASPEED_AST2500A2_GP_BGA456_19x19_P0.8",
+  "ISL95866_reference": "SOM:Renesas_L52_6x6A_QFN52_EP4.7",
+  "L": "SOM:L_Coilcraft_LPS4018",
+  "FUSE": "SOM:Fuse_Littelfuse-NANO2-451_453",
+  "XTAL": "SOM:Crystal_SMD_3215-2Pin_3.2x1.5mm",
+  "ABM8": "SOM:Crystal_SMD_3225-4Pin_3.2x2.5mm"
+}

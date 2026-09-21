@@ -1,0 +1,1282 @@
+[
+  {
+    "pin": "144",
+    "name": "A0",
+    "page": 19
+  },
+  {
+    "pin": "133",
+    "name": "A1",
+    "page": 19
+  },
+  {
+    "pin": "132",
+    "name": "A2",
+    "page": 19
+  },
+  {
+    "pin": "131",
+    "name": "A3",
+    "page": 19
+  },
+  {
+    "pin": "128",
+    "name": "A4",
+    "page": 19
+  },
+  {
+    "pin": "126",
+    "name": "A5",
+    "page": 19
+  },
+  {
+    "pin": "127",
+    "name": "A6",
+    "page": 19
+  },
+  {
+    "pin": "122",
+    "name": "A7",
+    "page": 19
+  },
+  {
+    "pin": "125",
+    "name": "A8",
+    "page": 19
+  },
+  {
+    "pin": "121",
+    "name": "A9",
+    "page": 19
+  },
+  {
+    "pin": "146",
+    "name": "A10/AP",
+    "page": 19
+  },
+  {
+    "pin": "120",
+    "name": "A11",
+    "page": 19
+  },
+  {
+    "pin": "119",
+    "name": "A12",
+    "page": 19
+  },
+  {
+    "pin": "158",
+    "name": "A13",
+    "page": 19
+  },
+  {
+    "pin": "151",
+    "name": "A14/WE#",
+    "page": 19
+  },
+  {
+    "pin": "156",
+    "name": "A15/CAS#",
+    "page": 19
+  },
+  {
+    "pin": "152",
+    "name": "A16/RAS#",
+    "page": 19
+  },
+  {
+    "pin": "162",
+    "name": "S2#/C0",
+    "page": 19
+  },
+  {
+    "pin": "165",
+    "name": "S3#/C1",
+    "page": 19
+  },
+  {
+    "pin": "114",
+    "name": "ACT#",
+    "page": 19
+  },
+  {
+    "pin": "143",
+    "name": "PARITY",
+    "page": 19
+  },
+  {
+    "pin": "116",
+    "name": "ALERT#",
+    "page": 19
+  },
+  {
+    "pin": "134",
+    "name": "EVENT#",
+    "page": 19
+  },
+  {
+    "pin": "108",
+    "name": "RESET#",
+    "page": 19
+  },
+  {
+    "pin": "150",
+    "name": "BA0",
+    "page": 19
+  },
+  {
+    "pin": "145",
+    "name": "BA1",
+    "page": 19
+  },
+  {
+    "pin": "115",
+    "name": "BG0",
+    "page": 19
+  },
+  {
+    "pin": "113",
+    "name": "BG1",
+    "page": 19
+  },
+  {
+    "pin": "149",
+    "name": "S0#",
+    "page": 19
+  },
+  {
+    "pin": "157",
+    "name": "S1#",
+    "page": 19
+  },
+  {
+    "pin": "109",
+    "name": "CKE0",
+    "page": 19
+  },
+  {
+    "pin": "110",
+    "name": "CKE1",
+    "page": 19
+  },
+  {
+    "pin": "137",
+    "name": "CK0",
+    "page": 19
+  },
+  {
+    "pin": "139",
+    "name": "CK0#",
+    "page": 19
+  },
+  {
+    "pin": "138",
+    "name": "CK1",
+    "page": 19
+  },
+  {
+    "pin": "140",
+    "name": "CK1#",
+    "page": 19
+  },
+  {
+    "pin": "155",
+    "name": "ODT0",
+    "page": 19
+  },
+  {
+    "pin": "161",
+    "name": "ODT1",
+    "page": 19
+  },
+  {
+    "pin": "253",
+    "name": "SCL",
+    "page": 19
+  },
+  {
+    "pin": "254",
+    "name": "SDA",
+    "page": 19
+  },
+  {
+    "pin": "256",
+    "name": "SA0",
+    "page": 19
+  },
+  {
+    "pin": "260",
+    "name": "SA1",
+    "page": 19
+  },
+  {
+    "pin": "166",
+    "name": "SA2",
+    "page": 19
+  },
+  {
+    "pin": "8",
+    "name": "DQ0",
+    "page": 19
+  },
+  {
+    "pin": "7",
+    "name": "DQ1",
+    "page": 19
+  },
+  {
+    "pin": "20",
+    "name": "DQ2",
+    "page": 19
+  },
+  {
+    "pin": "21",
+    "name": "DQ3",
+    "page": 19
+  },
+  {
+    "pin": "4",
+    "name": "DQ4",
+    "page": 19
+  },
+  {
+    "pin": "3",
+    "name": "DQ5",
+    "page": 19
+  },
+  {
+    "pin": "16",
+    "name": "DQ6",
+    "page": 19
+  },
+  {
+    "pin": "17",
+    "name": "DQ7",
+    "page": 19
+  },
+  {
+    "pin": "28",
+    "name": "DQ8",
+    "page": 19
+  },
+  {
+    "pin": "29",
+    "name": "DQ9",
+    "page": 19
+  },
+  {
+    "pin": "41",
+    "name": "DQ10",
+    "page": 19
+  },
+  {
+    "pin": "42",
+    "name": "DQ11",
+    "page": 19
+  },
+  {
+    "pin": "24",
+    "name": "DQ12",
+    "page": 19
+  },
+  {
+    "pin": "25",
+    "name": "DQ13",
+    "page": 19
+  },
+  {
+    "pin": "38",
+    "name": "DQ14",
+    "page": 19
+  },
+  {
+    "pin": "37",
+    "name": "DQ15",
+    "page": 19
+  },
+  {
+    "pin": "50",
+    "name": "DQ16",
+    "page": 19
+  },
+  {
+    "pin": "49",
+    "name": "DQ17",
+    "page": 19
+  },
+  {
+    "pin": "62",
+    "name": "DQ18",
+    "page": 19
+  },
+  {
+    "pin": "63",
+    "name": "DQ19",
+    "page": 19
+  },
+  {
+    "pin": "46",
+    "name": "DQ20",
+    "page": 19
+  },
+  {
+    "pin": "45",
+    "name": "DQ21",
+    "page": 19
+  },
+  {
+    "pin": "58",
+    "name": "DQ22",
+    "page": 19
+  },
+  {
+    "pin": "59",
+    "name": "DQ23",
+    "page": 19
+  },
+  {
+    "pin": "70",
+    "name": "DQ24",
+    "page": 19
+  },
+  {
+    "pin": "71",
+    "name": "DQ25",
+    "page": 19
+  },
+  {
+    "pin": "83",
+    "name": "DQ26",
+    "page": 19
+  },
+  {
+    "pin": "84",
+    "name": "DQ27",
+    "page": 19
+  },
+  {
+    "pin": "66",
+    "name": "DQ28",
+    "page": 19
+  },
+  {
+    "pin": "67",
+    "name": "DQ29",
+    "page": 19
+  },
+  {
+    "pin": "79",
+    "name": "DQ30",
+    "page": 19
+  },
+  {
+    "pin": "80",
+    "name": "DQ31",
+    "page": 19
+  },
+  {
+    "pin": "174",
+    "name": "DQ32",
+    "page": 19
+  },
+  {
+    "pin": "173",
+    "name": "DQ33",
+    "page": 19
+  },
+  {
+    "pin": "187",
+    "name": "DQ34",
+    "page": 19
+  },
+  {
+    "pin": "186",
+    "name": "DQ35",
+    "page": 19
+  },
+  {
+    "pin": "170",
+    "name": "DQ36",
+    "page": 19
+  },
+  {
+    "pin": "169",
+    "name": "DQ37",
+    "page": 19
+  },
+  {
+    "pin": "183",
+    "name": "DQ38",
+    "page": 19
+  },
+  {
+    "pin": "182",
+    "name": "DQ39",
+    "page": 19
+  },
+  {
+    "pin": "195",
+    "name": "DQ40",
+    "page": 19
+  },
+  {
+    "pin": "194",
+    "name": "DQ41",
+    "page": 19
+  },
+  {
+    "pin": "207",
+    "name": "DQ42",
+    "page": 19
+  },
+  {
+    "pin": "208",
+    "name": "DQ43",
+    "page": 19
+  },
+  {
+    "pin": "191",
+    "name": "DQ44",
+    "page": 19
+  },
+  {
+    "pin": "190",
+    "name": "DQ45",
+    "page": 19
+  },
+  {
+    "pin": "203",
+    "name": "DQ46",
+    "page": 19
+  },
+  {
+    "pin": "204",
+    "name": "DQ47",
+    "page": 19
+  },
+  {
+    "pin": "216",
+    "name": "DQ48",
+    "page": 19
+  },
+  {
+    "pin": "215",
+    "name": "DQ49",
+    "page": 19
+  },
+  {
+    "pin": "228",
+    "name": "DQ50",
+    "page": 19
+  },
+  {
+    "pin": "229",
+    "name": "DQ51",
+    "page": 19
+  },
+  {
+    "pin": "211",
+    "name": "DQ52",
+    "page": 19
+  },
+  {
+    "pin": "212",
+    "name": "DQ53",
+    "page": 19
+  },
+  {
+    "pin": "224",
+    "name": "DQ54",
+    "page": 19
+  },
+  {
+    "pin": "225",
+    "name": "DQ55",
+    "page": 19
+  },
+  {
+    "pin": "237",
+    "name": "DQ56",
+    "page": 19
+  },
+  {
+    "pin": "236",
+    "name": "DQ57",
+    "page": 19
+  },
+  {
+    "pin": "249",
+    "name": "DQ58",
+    "page": 19
+  },
+  {
+    "pin": "250",
+    "name": "DQ59",
+    "page": 19
+  },
+  {
+    "pin": "232",
+    "name": "DQ60",
+    "page": 19
+  },
+  {
+    "pin": "233",
+    "name": "DQ61",
+    "page": 19
+  },
+  {
+    "pin": "245",
+    "name": "DQ62",
+    "page": 19
+  },
+  {
+    "pin": "246",
+    "name": "DQ63",
+    "page": 19
+  },
+  {
+    "pin": "13",
+    "name": "DQS0",
+    "page": 19
+  },
+  {
+    "pin": "34",
+    "name": "DQS1",
+    "page": 19
+  },
+  {
+    "pin": "55",
+    "name": "DQS2",
+    "page": 19
+  },
+  {
+    "pin": "76",
+    "name": "DQS3",
+    "page": 19
+  },
+  {
+    "pin": "179",
+    "name": "DQS4",
+    "page": 19
+  },
+  {
+    "pin": "200",
+    "name": "DQS5",
+    "page": 19
+  },
+  {
+    "pin": "221",
+    "name": "DQS6",
+    "page": 19
+  },
+  {
+    "pin": "242",
+    "name": "DQS7",
+    "page": 19
+  },
+  {
+    "pin": "97",
+    "name": "DQS8",
+    "page": 19
+  },
+  {
+    "pin": "92",
+    "name": "CB0",
+    "page": 19
+  },
+  {
+    "pin": "91",
+    "name": "CB1",
+    "page": 19
+  },
+  {
+    "pin": "101",
+    "name": "CB2",
+    "page": 19
+  },
+  {
+    "pin": "105",
+    "name": "CB3",
+    "page": 19
+  },
+  {
+    "pin": "88",
+    "name": "CB4",
+    "page": 19
+  },
+  {
+    "pin": "87",
+    "name": "CB5",
+    "page": 19
+  },
+  {
+    "pin": "100",
+    "name": "CB6",
+    "page": 19
+  },
+  {
+    "pin": "104",
+    "name": "CB7",
+    "page": 19
+  },
+  {
+    "pin": "12",
+    "name": "DM0",
+    "page": 19
+  },
+  {
+    "pin": "33",
+    "name": "DM1",
+    "page": 19
+  },
+  {
+    "pin": "54",
+    "name": "DM2",
+    "page": 19
+  },
+  {
+    "pin": "75",
+    "name": "DM3",
+    "page": 19
+  },
+  {
+    "pin": "178",
+    "name": "DM4",
+    "page": 19
+  },
+  {
+    "pin": "199",
+    "name": "DM5",
+    "page": 19
+  },
+  {
+    "pin": "220",
+    "name": "DM6",
+    "page": 19
+  },
+  {
+    "pin": "241",
+    "name": "DM7",
+    "page": 19
+  },
+  {
+    "pin": "96",
+    "name": "DM8",
+    "page": 19
+  },
+  {
+    "pin": "11",
+    "name": "DQS#0",
+    "page": 19
+  },
+  {
+    "pin": "32",
+    "name": "DQS#1",
+    "page": 19
+  },
+  {
+    "pin": "53",
+    "name": "DQS#2",
+    "page": 19
+  },
+  {
+    "pin": "74",
+    "name": "DQS#3",
+    "page": 19
+  },
+  {
+    "pin": "177",
+    "name": "DQS#4",
+    "page": 19
+  },
+  {
+    "pin": "198",
+    "name": "DQS#5",
+    "page": 19
+  },
+  {
+    "pin": "219",
+    "name": "DQS#6",
+    "page": 19
+  },
+  {
+    "pin": "240",
+    "name": "DQS#7",
+    "page": 19
+  },
+  {
+    "pin": "95",
+    "name": "DQS#8",
+    "page": 19
+  },
+  {
+    "pin": "111",
+    "name": "VDD1",
+    "page": 19
+  },
+  {
+    "pin": "112",
+    "name": "VDD2",
+    "page": 19
+  },
+  {
+    "pin": "117",
+    "name": "VDD3",
+    "page": 19
+  },
+  {
+    "pin": "118",
+    "name": "VDD4",
+    "page": 19
+  },
+  {
+    "pin": "123",
+    "name": "VDD5",
+    "page": 19
+  },
+  {
+    "pin": "124",
+    "name": "VDD6",
+    "page": 19
+  },
+  {
+    "pin": "129",
+    "name": "VDD7",
+    "page": 19
+  },
+  {
+    "pin": "130",
+    "name": "VDD8",
+    "page": 19
+  },
+  {
+    "pin": "135",
+    "name": "VDD9",
+    "page": 19
+  },
+  {
+    "pin": "136",
+    "name": "VDD10",
+    "page": 19
+  },
+  {
+    "pin": "141",
+    "name": "VDD11",
+    "page": 19
+  },
+  {
+    "pin": "142",
+    "name": "VDD12",
+    "page": 19
+  },
+  {
+    "pin": "147",
+    "name": "VDD13",
+    "page": 19
+  },
+  {
+    "pin": "148",
+    "name": "VDD14",
+    "page": 19
+  },
+  {
+    "pin": "153",
+    "name": "VDD15",
+    "page": 19
+  },
+  {
+    "pin": "154",
+    "name": "VDD16",
+    "page": 19
+  },
+  {
+    "pin": "159",
+    "name": "VDD17",
+    "page": 19
+  },
+  {
+    "pin": "160",
+    "name": "VDD18",
+    "page": 19
+  },
+  {
+    "pin": "163",
+    "name": "VDD19",
+    "page": 19
+  },
+  {
+    "pin": "1",
+    "name": "VSS1",
+    "page": 19
+  },
+  {
+    "pin": "5",
+    "name": "VSS2",
+    "page": 19
+  },
+  {
+    "pin": "9",
+    "name": "VSS3",
+    "page": 19
+  },
+  {
+    "pin": "15",
+    "name": "VSS4",
+    "page": 19
+  },
+  {
+    "pin": "19",
+    "name": "VSS5",
+    "page": 19
+  },
+  {
+    "pin": "23",
+    "name": "VSS6",
+    "page": 19
+  },
+  {
+    "pin": "27",
+    "name": "VSS7",
+    "page": 19
+  },
+  {
+    "pin": "31",
+    "name": "VSS8",
+    "page": 19
+  },
+  {
+    "pin": "35",
+    "name": "VSS9",
+    "page": 19
+  },
+  {
+    "pin": "39",
+    "name": "VSS10",
+    "page": 19
+  },
+  {
+    "pin": "43",
+    "name": "VSS11",
+    "page": 19
+  },
+  {
+    "pin": "47",
+    "name": "VSS12",
+    "page": 19
+  },
+  {
+    "pin": "51",
+    "name": "VSS13",
+    "page": 19
+  },
+  {
+    "pin": "57",
+    "name": "VSS14",
+    "page": 19
+  },
+  {
+    "pin": "61",
+    "name": "VSS15",
+    "page": 19
+  },
+  {
+    "pin": "65",
+    "name": "VSS16",
+    "page": 19
+  },
+  {
+    "pin": "69",
+    "name": "VSS17",
+    "page": 19
+  },
+  {
+    "pin": "73",
+    "name": "VSS18",
+    "page": 19
+  },
+  {
+    "pin": "77",
+    "name": "VSS19",
+    "page": 19
+  },
+  {
+    "pin": "81",
+    "name": "VSS20",
+    "page": 19
+  },
+  {
+    "pin": "85",
+    "name": "VSS21",
+    "page": 19
+  },
+  {
+    "pin": "89",
+    "name": "VSS22",
+    "page": 19
+  },
+  {
+    "pin": "93",
+    "name": "VSS23",
+    "page": 19
+  },
+  {
+    "pin": "99",
+    "name": "VSS24",
+    "page": 19
+  },
+  {
+    "pin": "103",
+    "name": "VSS25",
+    "page": 19
+  },
+  {
+    "pin": "107",
+    "name": "VSS26",
+    "page": 19
+  },
+  {
+    "pin": "167",
+    "name": "VSS27",
+    "page": 19
+  },
+  {
+    "pin": "171",
+    "name": "VSS28",
+    "page": 19
+  },
+  {
+    "pin": "175",
+    "name": "VSS29",
+    "page": 19
+  },
+  {
+    "pin": "181",
+    "name": "VSS30",
+    "page": 19
+  },
+  {
+    "pin": "185",
+    "name": "VSS31",
+    "page": 19
+  },
+  {
+    "pin": "189",
+    "name": "VSS32",
+    "page": 19
+  },
+  {
+    "pin": "193",
+    "name": "VSS33",
+    "page": 19
+  },
+  {
+    "pin": "197",
+    "name": "VSS34",
+    "page": 19
+  },
+  {
+    "pin": "201",
+    "name": "VSS35",
+    "page": 19
+  },
+  {
+    "pin": "205",
+    "name": "VSS36",
+    "page": 19
+  },
+  {
+    "pin": "209",
+    "name": "VSS37",
+    "page": 19
+  },
+  {
+    "pin": "213",
+    "name": "VSS38",
+    "page": 19
+  },
+  {
+    "pin": "217",
+    "name": "VSS39",
+    "page": 19
+  },
+  {
+    "pin": "223",
+    "name": "VSS40",
+    "page": 19
+  },
+  {
+    "pin": "227",
+    "name": "VSS41",
+    "page": 19
+  },
+  {
+    "pin": "231",
+    "name": "VSS42",
+    "page": 19
+  },
+  {
+    "pin": "235",
+    "name": "VSS43",
+    "page": 19
+  },
+  {
+    "pin": "239",
+    "name": "VSS44",
+    "page": 19
+  },
+  {
+    "pin": "243",
+    "name": "VSS45",
+    "page": 19
+  },
+  {
+    "pin": "247",
+    "name": "VSS46",
+    "page": 19
+  },
+  {
+    "pin": "251",
+    "name": "VSS47",
+    "page": 19
+  },
+  {
+    "pin": "255",
+    "name": "VDDSPD",
+    "page": 19
+  },
+  {
+    "pin": "2",
+    "name": "VSS48",
+    "page": 19
+  },
+  {
+    "pin": "6",
+    "name": "VSS49",
+    "page": 19
+  },
+  {
+    "pin": "10",
+    "name": "VSS50",
+    "page": 19
+  },
+  {
+    "pin": "14",
+    "name": "VSS51",
+    "page": 19
+  },
+  {
+    "pin": "18",
+    "name": "VSS52",
+    "page": 19
+  },
+  {
+    "pin": "22",
+    "name": "VSS53",
+    "page": 19
+  },
+  {
+    "pin": "26",
+    "name": "VSS54",
+    "page": 19
+  },
+  {
+    "pin": "30",
+    "name": "VSS55",
+    "page": 19
+  },
+  {
+    "pin": "36",
+    "name": "VSS56",
+    "page": 19
+  },
+  {
+    "pin": "40",
+    "name": "VSS57",
+    "page": 19
+  },
+  {
+    "pin": "44",
+    "name": "VSS58",
+    "page": 19
+  },
+  {
+    "pin": "48",
+    "name": "VSS59",
+    "page": 19
+  },
+  {
+    "pin": "52",
+    "name": "VSS60",
+    "page": 19
+  },
+  {
+    "pin": "56",
+    "name": "VSS61",
+    "page": 19
+  },
+  {
+    "pin": "60",
+    "name": "VSS62",
+    "page": 19
+  },
+  {
+    "pin": "64",
+    "name": "VSS63",
+    "page": 19
+  },
+  {
+    "pin": "68",
+    "name": "VSS64",
+    "page": 19
+  },
+  {
+    "pin": "72",
+    "name": "VSS65",
+    "page": 19
+  },
+  {
+    "pin": "78",
+    "name": "VSS66",
+    "page": 19
+  },
+  {
+    "pin": "82",
+    "name": "VSS67",
+    "page": 19
+  },
+  {
+    "pin": "86",
+    "name": "VSS68",
+    "page": 19
+  },
+  {
+    "pin": "90",
+    "name": "VSS69",
+    "page": 19
+  },
+  {
+    "pin": "94",
+    "name": "VSS70",
+    "page": 19
+  },
+  {
+    "pin": "98",
+    "name": "VSS71",
+    "page": 19
+  },
+  {
+    "pin": "102",
+    "name": "VSS72",
+    "page": 19
+  },
+  {
+    "pin": "106",
+    "name": "VSS73",
+    "page": 19
+  },
+  {
+    "pin": "168",
+    "name": "VSS74",
+    "page": 19
+  },
+  {
+    "pin": "172",
+    "name": "VSS75",
+    "page": 19
+  },
+  {
+    "pin": "176",
+    "name": "VSS76",
+    "page": 19
+  },
+  {
+    "pin": "180",
+    "name": "VSS77",
+    "page": 19
+  },
+  {
+    "pin": "184",
+    "name": "VSS78",
+    "page": 19
+  },
+  {
+    "pin": "188",
+    "name": "VSS79",
+    "page": 19
+  },
+  {
+    "pin": "192",
+    "name": "VSS80",
+    "page": 19
+  },
+  {
+    "pin": "196",
+    "name": "VSS81",
+    "page": 19
+  },
+  {
+    "pin": "202",
+    "name": "VSS82",
+    "page": 19
+  },
+  {
+    "pin": "206",
+    "name": "VSS83",
+    "page": 19
+  },
+  {
+    "pin": "210",
+    "name": "VSS84",
+    "page": 19
+  },
+  {
+    "pin": "214",
+    "name": "VSS85",
+    "page": 19
+  },
+  {
+    "pin": "218",
+    "name": "VSS86",
+    "page": 19
+  },
+  {
+    "pin": "222",
+    "name": "VSS87",
+    "page": 19
+  },
+  {
+    "pin": "226",
+    "name": "VSS88",
+    "page": 19
+  },
+  {
+    "pin": "230",
+    "name": "VSS89",
+    "page": 19
+  },
+  {
+    "pin": "234",
+    "name": "VSS90",
+    "page": 19
+  },
+  {
+    "pin": "238",
+    "name": "VSS91",
+    "page": 19
+  },
+  {
+    "pin": "244",
+    "name": "VSS92",
+    "page": 19
+  },
+  {
+    "pin": "248",
+    "name": "VSS93",
+    "page": 19
+  },
+  {
+    "pin": "252",
+    "name": "VSS94",
+    "page": 19
+  }
+]

@@ -1,0 +1,1 @@
+(sym_lib_table (version 7) (lib (name "SOM") (type "KiCad") (uri "${KIPRJMOD}/SOM.kicad_sym") (options "") (descr "Preliminary source-based symbols")) (lib (name "SOM_Full") (type "KiCad") (uri "${KIPRJMOD}/SOM_Full.kicad_sym") (options "") (descr "Full pin inventories with manufacturer and package status")))

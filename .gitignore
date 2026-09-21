@@ -1,0 +1,7 @@
+tmp/
+__pycache__/
+*.pyc
+*.lck
+*.kicad_prl
+*-backups/
+output/library-preview/

@@ -1,0 +1,2422 @@
+[
+  {
+    "pin": "U10",
+    "name": "MDQ0",
+    "page": 51
+  },
+  {
+    "pin": "U8",
+    "name": "MDM0",
+    "page": 51
+  },
+  {
+    "pin": "AB9",
+    "name": "MDQS0",
+    "page": 51
+  },
+  {
+    "pin": "AB10",
+    "name": "MDQS0#",
+    "page": 51
+  },
+  {
+    "pin": "V13",
+    "name": "MA0",
+    "page": 51
+  },
+  {
+    "pin": "Y15",
+    "name": "MA14/MACT#",
+    "page": 51
+  },
+  {
+    "pin": "U12",
+    "name": "MBA0",
+    "page": 51
+  },
+  {
+    "pin": "Y13",
+    "name": "MBA1",
+    "page": 51
+  },
+  {
+    "pin": "AB11",
+    "name": "MCK",
+    "page": 52
+  },
+  {
+    "pin": "AB12",
+    "name": "MCK#",
+    "page": 52
+  },
+  {
+    "pin": "AA12",
+    "name": "MCS#",
+    "page": 52
+  },
+  {
+    "pin": "W12",
+    "name": "MRAS#",
+    "page": 52
+  },
+  {
+    "pin": "AB13",
+    "name": "MCAS#",
+    "page": 52
+  },
+  {
+    "pin": "Y12",
+    "name": "MWE#",
+    "page": 52
+  },
+  {
+    "pin": "Y11",
+    "name": "MCKE",
+    "page": 52
+  },
+  {
+    "pin": "V11",
+    "name": "MODT",
+    "page": 52
+  },
+  {
+    "pin": "AB17",
+    "name": "MRESET#",
+    "page": 52
+  },
+  {
+    "pin": "U16",
+    "name": "MALERT#",
+    "page": 52
+  },
+  {
+    "pin": "W11",
+    "name": "MIOZ",
+    "page": 52
+  },
+  {
+    "pin": "T9",
+    "name": "MVREF",
+    "page": 52
+  },
+  {
+    "pin": "L20",
+    "name": "PERST#",
+    "page": 52
+  },
+  {
+    "pin": "K21",
+    "name": "PEREFCLKP",
+    "page": 52
+  },
+  {
+    "pin": "K22",
+    "name": "PEREFCLKN",
+    "page": 52
+  },
+  {
+    "pin": "M21",
+    "name": "PERXP",
+    "page": 52
+  },
+  {
+    "pin": "M22",
+    "name": "PERXN",
+    "page": 52
+  },
+  {
+    "pin": "L21",
+    "name": "PETXP",
+    "page": 52
+  },
+  {
+    "pin": "L22",
+    "name": "PETXN",
+    "page": 52
+  },
+  {
+    "pin": "K20",
+    "name": "PEREXT",
+    "page": 52
+  },
+  {
+    "pin": "G21",
+    "name": "GPIOAC0",
+    "page": 52
+  },
+  {
+    "pin": "G20",
+    "name": "GPIOAC1",
+    "page": 52
+  },
+  {
+    "pin": "D22",
+    "name": "GPIOAC2",
+    "page": 53
+  },
+  {
+    "pin": "E22",
+    "name": "GPIOAC3",
+    "page": 53
+  },
+  {
+    "pin": "C22",
+    "name": "GPIOAC4",
+    "page": 53
+  },
+  {
+    "pin": "F21",
+    "name": "GPIOAC5",
+    "page": 53
+  },
+  {
+    "pin": "F22",
+    "name": "GPIOAC6",
+    "page": 53
+  },
+  {
+    "pin": "G22",
+    "name": "GPIOAC7",
+    "page": 53
+  },
+  {
+    "pin": "B4",
+    "name": "RGMII1RXCK",
+    "page": 53
+  },
+  {
+    "pin": "A4",
+    "name": "RGMII1RXCTL",
+    "page": 53
+  },
+  {
+    "pin": "A3",
+    "name": "RGMII1RXD0",
+    "page": 53
+  },
+  {
+    "pin": "D6",
+    "name": "RGMII1RXD1",
+    "page": 53
+  },
+  {
+    "pin": "C5",
+    "name": "RGMII1RXD2",
+    "page": 53
+  },
+  {
+    "pin": "C4",
+    "name": "RGMII1RXD3",
+    "page": 53
+  },
+  {
+    "pin": "B5",
+    "name": "RGMII1TXCK",
+    "page": 53
+  },
+  {
+    "pin": "E9",
+    "name": "RGMII1TXCTL",
+    "page": 54
+  },
+  {
+    "pin": "F9",
+    "name": "RGMII1TXD0",
+    "page": 54
+  },
+  {
+    "pin": "A5",
+    "name": "RGMII1TXD1",
+    "page": 54
+  },
+  {
+    "pin": "E7",
+    "name": "RGMII1TXD2",
+    "page": 54
+  },
+  {
+    "pin": "D7",
+    "name": "RGMII1TXD3",
+    "page": 54
+  },
+  {
+    "pin": "C2",
+    "name": "RGMII2RXCK",
+    "page": 54
+  },
+  {
+    "pin": "C1",
+    "name": "RGMII2RXCTL",
+    "page": 54
+  },
+  {
+    "pin": "C3",
+    "name": "RGMII2RXD0",
+    "page": 54
+  },
+  {
+    "pin": "D1",
+    "name": "RGMII2RXD1",
+    "page": 54
+  },
+  {
+    "pin": "D2",
+    "name": "RGMII2RXD2",
+    "page": 54
+  },
+  {
+    "pin": "E6",
+    "name": "RGMII2RXD3",
+    "page": 54
+  },
+  {
+    "pin": "B2",
+    "name": "RGMII2TXCK",
+    "page": 54
+  },
+  {
+    "pin": "B1",
+    "name": "RGMII2TXCTL",
+    "page": 54
+  },
+  {
+    "pin": "A2",
+    "name": "RGMII2TXD0",
+    "page": 55
+  },
+  {
+    "pin": "B3",
+    "name": "RGMII2TXD1",
+    "page": 55
+  },
+  {
+    "pin": "D5",
+    "name": "RGMII2TXD2",
+    "page": 55
+  },
+  {
+    "pin": "D4",
+    "name": "RGMII2TXD3",
+    "page": 55
+  },
+  {
+    "pin": "D3",
+    "name": "RGMIICK",
+    "page": 55
+  },
+  {
+    "pin": "D8",
+    "name": "GPIOR6",
+    "page": 55
+  },
+  {
+    "pin": "E10",
+    "name": "GPIOR7",
+    "page": 55
+  },
+  {
+    "pin": "C13",
+    "name": "GPIOA6",
+    "page": 55
+  },
+  {
+    "pin": "B13",
+    "name": "GPIOA7",
+    "page": 55
+  },
+  {
+    "pin": "T2",
+    "name": "GPIOL0",
+    "page": 56
+  },
+  {
+    "pin": "T1",
+    "name": "GPIOL1",
+    "page": 56
+  },
+  {
+    "pin": "U1",
+    "name": "GPIOL2",
+    "page": 56
+  },
+  {
+    "pin": "U2",
+    "name": "GPIOL3",
+    "page": 56
+  },
+  {
+    "pin": "P4",
+    "name": "GPIOL4",
+    "page": 56
+  },
+  {
+    "pin": "P3",
+    "name": "GPIOL5",
+    "page": 56
+  },
+  {
+    "pin": "V1",
+    "name": "GPIOL6",
+    "page": 56
+  },
+  {
+    "pin": "W1",
+    "name": "GPIOL7",
+    "page": 56
+  },
+  {
+    "pin": "Y1",
+    "name": "GPIOM0",
+    "page": 56
+  },
+  {
+    "pin": "AB2",
+    "name": "GPIOM1",
+    "page": 56
+  },
+  {
+    "pin": "AA1",
+    "name": "GPIOM2",
+    "page": 56
+  },
+  {
+    "pin": "Y2",
+    "name": "GPIOM3",
+    "page": 56
+  },
+  {
+    "pin": "AA2",
+    "name": "GPIOM4",
+    "page": 56
+  },
+  {
+    "pin": "P5",
+    "name": "GPIOM5",
+    "page": 56
+  },
+  {
+    "pin": "R5",
+    "name": "GPIOM6",
+    "page": 56
+  },
+  {
+    "pin": "T5",
+    "name": "GPIOM7",
+    "page": 57
+  },
+  {
+    "pin": "B20",
+    "name": "GPIOE0",
+    "page": 57
+  },
+  {
+    "pin": "C20",
+    "name": "GPIOE1",
+    "page": 57
+  },
+  {
+    "pin": "F18",
+    "name": "GPIOE2",
+    "page": 57
+  },
+  {
+    "pin": "F17",
+    "name": "GPIOE3",
+    "page": 57
+  },
+  {
+    "pin": "E18",
+    "name": "GPIOE4",
+    "page": 57
+  },
+  {
+    "pin": "D19",
+    "name": "GPIOE5",
+    "page": 57
+  },
+  {
+    "pin": "A20",
+    "name": "GPIOE6",
+    "page": 57
+  },
+  {
+    "pin": "B19",
+    "name": "GPIOE7",
+    "page": 57
+  },
+  {
+    "pin": "J19",
+    "name": "GPIOF0",
+    "page": 57
+  },
+  {
+    "pin": "J18",
+    "name": "GPIOF1",
+    "page": 57
+  },
+  {
+    "pin": "B22",
+    "name": "GPIOF2",
+    "page": 57
+  },
+  {
+    "pin": "B21",
+    "name": "GPIOF3",
+    "page": 57
+  },
+  {
+    "pin": "A21",
+    "name": "GPIOF4",
+    "page": 57
+  },
+  {
+    "pin": "H19",
+    "name": "GPIOF5",
+    "page": 57
+  },
+  {
+    "pin": "G17",
+    "name": "GPIOF6",
+    "page": 57
+  },
+  {
+    "pin": "H18",
+    "name": "GPIOF7",
+    "page": 58
+  },
+  {
+    "pin": "K1",
+    "name": "TXD5",
+    "page": 58
+  },
+  {
+    "pin": "K2",
+    "name": "RXD5",
+    "page": 58
+  },
+  {
+    "pin": "A18",
+    "name": "GPIOH0",
+    "page": 58
+  },
+  {
+    "pin": "B18",
+    "name": "GPIOH1",
+    "page": 58
+  },
+  {
+    "pin": "D17",
+    "name": "GPIOH2",
+    "page": 58
+  },
+  {
+    "pin": "C17",
+    "name": "GPIOH3",
+    "page": 58
+  },
+  {
+    "pin": "A17",
+    "name": "GPIOH4",
+    "page": 58
+  },
+  {
+    "pin": "B17",
+    "name": "GPIOH5",
+    "page": 58
+  },
+  {
+    "pin": "A16",
+    "name": "GPIOH6",
+    "page": 58
+  },
+  {
+    "pin": "D18",
+    "name": "GPIOH7",
+    "page": 58
+  },
+  {
+    "pin": "AB19",
+    "name": "FWSPICS0#",
+    "page": 58
+  },
+  {
+    "pin": "AA18",
+    "name": "FWSPICK",
+    "page": 58
+  },
+  {
+    "pin": "U17",
+    "name": "FWSPIMOSI",
+    "page": 58
+  },
+  {
+    "pin": "T18",
+    "name": "FWSPIMISO",
+    "page": 58
+  },
+  {
+    "pin": "AA19",
+    "name": "GPIOR0",
+    "page": 58
+  },
+  {
+    "pin": "T19",
+    "name": "GPIOR1",
+    "page": 59
+  },
+  {
+    "pin": "C18",
+    "name": "GPIOI0",
+    "page": 59
+  },
+  {
+    "pin": "E15",
+    "name": "GPIOI1",
+    "page": 59
+  },
+  {
+    "pin": "B16",
+    "name": "GPIOI2",
+    "page": 59
+  },
+  {
+    "pin": "C16",
+    "name": "GPIOI3",
+    "page": 59
+  },
+  {
+    "pin": "B15",
+    "name": "GPIOI4",
+    "page": 59
+  },
+  {
+    "pin": "C15",
+    "name": "GPIOI5",
+    "page": 59
+  },
+  {
+    "pin": "A14",
+    "name": "GPIOI6",
+    "page": 59
+  },
+  {
+    "pin": "A15",
+    "name": "GPIOI7",
+    "page": 59
+  },
+  {
+    "pin": "T17",
+    "name": "GPIOR2",
+    "page": 59
+  },
+  {
+    "pin": "Y19",
+    "name": "GPIOR3",
+    "page": 59
+  },
+  {
+    "pin": "W19",
+    "name": "GPIOR4",
+    "page": 59
+  },
+  {
+    "pin": "V19",
+    "name": "GPIOR5",
+    "page": 59
+  },
+  {
+    "pin": "M18",
+    "name": "GPIOY4",
+    "page": 59
+  },
+  {
+    "pin": "M19",
+    "name": "GPIOY5",
+    "page": 59
+  },
+  {
+    "pin": "M20",
+    "name": "GPIOY6",
+    "page": 59
+  },
+  {
+    "pin": "P20",
+    "name": "GPIOY7",
+    "page": 60
+  },
+  {
+    "pin": "A11",
+    "name": "GPIOQ0",
+    "page": 60
+  },
+  {
+    "pin": "A10",
+    "name": "GPIOQ1",
+    "page": 60
+  },
+  {
+    "pin": "A9",
+    "name": "GPIOQ2",
+    "page": 60
+  },
+  {
+    "pin": "B9",
+    "name": "GPIOQ3",
+    "page": 60
+  },
+  {
+    "pin": "L3",
+    "name": "GPIOK0",
+    "page": 60
+  },
+  {
+    "pin": "L4",
+    "name": "GPIOK1",
+    "page": 60
+  },
+  {
+    "pin": "L1",
+    "name": "GPIOK2",
+    "page": 60
+  },
+  {
+    "pin": "N2",
+    "name": "GPIOK3",
+    "page": 60
+  },
+  {
+    "pin": "N1",
+    "name": "GPIOK4",
+    "page": 60
+  },
+  {
+    "pin": "P1",
+    "name": "GPIOK5",
+    "page": 60
+  },
+  {
+    "pin": "P2",
+    "name": "GPIOK6",
+    "page": 60
+  },
+  {
+    "pin": "C14",
+    "name": "GPIOA4",
+    "page": 60
+  },
+  {
+    "pin": "A13",
+    "name": "GPIOA5",
+    "page": 60
+  },
+  {
+    "pin": "N21",
+    "name": "GPIOQ4",
+    "page": 60
+  },
+  {
+    "pin": "N22",
+    "name": "GPIOQ5",
+    "page": 60
+  },
+  {
+    "pin": "C12",
+    "name": "GPIOC0",
+    "page": 60
+  },
+  {
+    "pin": "A12",
+    "name": "GPIOC1",
+    "page": 60
+  },
+  {
+    "pin": "B12",
+    "name": "GPIOC2",
+    "page": 61
+  },
+  {
+    "pin": "D9",
+    "name": "GPIOC3",
+    "page": 61
+  },
+  {
+    "pin": "D10",
+    "name": "GPIOC4",
+    "page": 61
+  },
+  {
+    "pin": "E12",
+    "name": "GPIOC5",
+    "page": 61
+  },
+  {
+    "pin": "C11",
+    "name": "GPIOC6",
+    "page": 61
+  },
+  {
+    "pin": "B11",
+    "name": "GPIOC7",
+    "page": 61
+  },
+  {
+    "pin": "F19",
+    "name": "GPIOD0",
+    "page": 61
+  },
+  {
+    "pin": "E21",
+    "name": "GPIOD1",
+    "page": 61
+  },
+  {
+    "pin": "F20",
+    "name": "GPIOD2",
+    "page": 61
+  },
+  {
+    "pin": "D20",
+    "name": "GPIOD3",
+    "page": 61
+  },
+  {
+    "pin": "D21",
+    "name": "GPIOD4",
+    "page": 61
+  },
+  {
+    "pin": "E20",
+    "name": "GPIOD5",
+    "page": 61
+  },
+  {
+    "pin": "G18",
+    "name": "GPIOD6",
+    "page": 61
+  },
+  {
+    "pin": "C21",
+    "name": "GPIOD7",
+    "page": 61
+  },
+  {
+    "pin": "R2",
+    "name": "GPIOJ0",
+    "page": 61
+  },
+  {
+    "pin": "L2",
+    "name": "GPIOJ1",
+    "page": 61
+  },
+  {
+    "pin": "N3",
+    "name": "GPIOJ2",
+    "page": 61
+  },
+  {
+    "pin": "N4",
+    "name": "GPIOJ3",
+    "page": 62
+  },
+  {
+    "pin": "A19",
+    "name": "GPIOG0",
+    "page": 62
+  },
+  {
+    "pin": "E19",
+    "name": "GPIOG1",
+    "page": 62
+  },
+  {
+    "pin": "C19",
+    "name": "GPIOG2",
+    "page": 62
+  },
+  {
+    "pin": "E16",
+    "name": "GPIOG3",
+    "page": 62
+  },
+  {
+    "pin": "E17",
+    "name": "GPIOG4",
+    "page": 62
+  },
+  {
+    "pin": "D16",
+    "name": "GPIOG5",
+    "page": 62
+  },
+  {
+    "pin": "D15",
+    "name": "GPIOG6",
+    "page": 62
+  },
+  {
+    "pin": "E14",
+    "name": "GPIOG7",
+    "page": 62
+  },
+  {
+    "pin": "N5",
+    "name": "GPIOJ4",
+    "page": 62
+  },
+  {
+    "pin": "R4",
+    "name": "GPIOJ5",
+    "page": 62
+  },
+  {
+    "pin": "R3",
+    "name": "GPIOJ6",
+    "page": 62
+  },
+  {
+    "pin": "T3",
+    "name": "GPIOJ7",
+    "page": 62
+  },
+  {
+    "pin": "V2",
+    "name": "GPION0",
+    "page": 62
+  },
+  {
+    "pin": "W2",
+    "name": "GPION1",
+    "page": 62
+  },
+  {
+    "pin": "V3",
+    "name": "GPION2",
+    "page": 62
+  },
+  {
+    "pin": "U3",
+    "name": "GPION3",
+    "page": 63
+  },
+  {
+    "pin": "W3",
+    "name": "GPION4",
+    "page": 63
+  },
+  {
+    "pin": "AA3",
+    "name": "GPION5",
+    "page": 63
+  },
+  {
+    "pin": "Y3",
+    "name": "GPION6",
+    "page": 63
+  },
+  {
+    "pin": "T4",
+    "name": "GPION7",
+    "page": 63
+  },
+  {
+    "pin": "U5",
+    "name": "GPIOO0",
+    "page": 63
+  },
+  {
+    "pin": "U4",
+    "name": "GPIOO1",
+    "page": 63
+  },
+  {
+    "pin": "V5",
+    "name": "GPIOO2",
+    "page": 63
+  },
+  {
+    "pin": "AB4",
+    "name": "GPIOO3",
+    "page": 63
+  },
+  {
+    "pin": "AB3",
+    "name": "GPIOO4",
+    "page": 63
+  },
+  {
+    "pin": "Y4",
+    "name": "GPIOO5",
+    "page": 63
+  },
+  {
+    "pin": "AA4",
+    "name": "GPIOO6",
+    "page": 63
+  },
+  {
+    "pin": "W4",
+    "name": "GPIOO7",
+    "page": 63
+  },
+  {
+    "pin": "V4",
+    "name": "GPIOP0",
+    "page": 63
+  },
+  {
+    "pin": "W5",
+    "name": "GPIOP1",
+    "page": 63
+  },
+  {
+    "pin": "AA5",
+    "name": "GPIOP2",
+    "page": 64
+  },
+  {
+    "pin": "AB5",
+    "name": "GPIOP3",
+    "page": 64
+  },
+  {
+    "pin": "Y6",
+    "name": "GPIOP4",
+    "page": 64
+  },
+  {
+    "pin": "Y5",
+    "name": "GPIOP5",
+    "page": 64
+  },
+  {
+    "pin": "W6",
+    "name": "GPIOP6",
+    "page": 64
+  },
+  {
+    "pin": "V6",
+    "name": "GPIOP7",
+    "page": 64
+  },
+  {
+    "pin": "D14",
+    "name": "GPIOA1",
+    "page": 64
+  },
+  {
+    "pin": "D13",
+    "name": "GPIOA2",
+    "page": 64
+  },
+  {
+    "pin": "E13",
+    "name": "GPIOA3",
+    "page": 64
+  },
+  {
+    "pin": "K19",
+    "name": "GPIOB0",
+    "page": 64
+  },
+  {
+    "pin": "L19",
+    "name": "GPIOB1",
+    "page": 64
+  },
+  {
+    "pin": "L18",
+    "name": "GPIOB2",
+    "page": 64
+  },
+  {
+    "pin": "K18",
+    "name": "GPIOB3",
+    "page": 64
+  },
+  {
+    "pin": "J20",
+    "name": "GPIOB4",
+    "page": 64
+  },
+  {
+    "pin": "H21",
+    "name": "GPIOB5",
+    "page": 65
+  },
+  {
+    "pin": "H22",
+    "name": "GPIOB6",
+    "page": 65
+  },
+  {
+    "pin": "H20",
+    "name": "GPIOB7",
+    "page": 65
+  },
+  {
+    "pin": "B10",
+    "name": "GPIOQ6",
+    "page": 65
+  },
+  {
+    "pin": "N20",
+    "name": "GPIOQ7",
+    "page": 65
+  },
+  {
+    "pin": "V20",
+    "name": "GPIOS0",
+    "page": 65
+  },
+  {
+    "pin": "U19",
+    "name": "GPIOS1",
+    "page": 65
+  },
+  {
+    "pin": "R18",
+    "name": "GPIOS2",
+    "page": 65
+  },
+  {
+    "pin": "P18",
+    "name": "GPIOS3",
+    "page": 65
+  },
+  {
+    "pin": "R19",
+    "name": "GPIOS4",
+    "page": 65
+  },
+  {
+    "pin": "W20",
+    "name": "GPIOS5",
+    "page": 65
+  },
+  {
+    "pin": "U20",
+    "name": "GPIOS6",
+    "page": 65
+  },
+  {
+    "pin": "AA20",
+    "name": "GPIOS7",
+    "page": 65
+  },
+  {
+    "pin": "R22",
+    "name": "GPIOY0",
+    "page": 65
+  },
+  {
+    "pin": "R21",
+    "name": "GPIOY1",
+    "page": 65
+  },
+  {
+    "pin": "P22",
+    "name": "GPIOY2",
+    "page": 65
+  },
+  {
+    "pin": "P21",
+    "name": "GPIOY3",
+    "page": 65
+  },
+  {
+    "pin": "Y20",
+    "name": "GPIOZ0",
+    "page": 65
+  },
+  {
+    "pin": "AB20",
+    "name": "GPIOZ1",
+    "page": 66
+  },
+  {
+    "pin": "AB21",
+    "name": "GPIOZ2",
+    "page": 66
+  },
+  {
+    "pin": "AA21",
+    "name": "GPIOZ3",
+    "page": 66
+  },
+  {
+    "pin": "U21",
+    "name": "GPIOZ4",
+    "page": 66
+  },
+  {
+    "pin": "W22",
+    "name": "GPIOZ5",
+    "page": 66
+  },
+  {
+    "pin": "V22",
+    "name": "GPIOZ6",
+    "page": 66
+  },
+  {
+    "pin": "W21",
+    "name": "GPIOZ7",
+    "page": 66
+  },
+  {
+    "pin": "Y21",
+    "name": "GPIOAA0",
+    "page": 66
+  },
+  {
+    "pin": "V21",
+    "name": "GPIOAA1",
+    "page": 66
+  },
+  {
+    "pin": "Y22",
+    "name": "GPIOAA2",
+    "page": 66
+  },
+  {
+    "pin": "AA22",
+    "name": "GPIOAA3",
+    "page": 66
+  },
+  {
+    "pin": "U22",
+    "name": "GPIOAA4",
+    "page": 67
+  },
+  {
+    "pin": "T20",
+    "name": "GPIOAA5",
+    "page": 67
+  },
+  {
+    "pin": "N18",
+    "name": "GPIOAA6",
+    "page": 67
+  },
+  {
+    "pin": "P19",
+    "name": "GPIOAA7",
+    "page": 67
+  },
+  {
+    "pin": "N19",
+    "name": "GPIOAB0",
+    "page": 67
+  },
+  {
+    "pin": "T21",
+    "name": "GPIOAB1",
+    "page": 67
+  },
+  {
+    "pin": "T22",
+    "name": "GPIOAB2",
+    "page": 67
+  },
+  {
+    "pin": "R20",
+    "name": "GPIOAB3",
+    "page": 67
+  },
+  {
+    "pin": "E11",
+    "name": "NTRST",
+    "page": 68
+  },
+  {
+    "pin": "O8",
+    "name": "JTAG",
+    "page": 68
+  },
+  {
+    "pin": "C10",
+    "name": "TCK",
+    "page": 68
+  },
+  {
+    "pin": "O8",
+    "name": "JTAG",
+    "page": 68
+  },
+  {
+    "pin": "C8",
+    "name": "TMS",
+    "page": 68
+  },
+  {
+    "pin": "O8",
+    "name": "JTAG",
+    "page": 68
+  },
+  {
+    "pin": "D12",
+    "name": "TDI",
+    "page": 68
+  },
+  {
+    "pin": "O8",
+    "name": "JTAG",
+    "page": 68
+  },
+  {
+    "pin": "D11",
+    "name": "TDO",
+    "page": 68
+  },
+  {
+    "pin": "C9",
+    "name": "RTCK",
+    "page": 68
+  },
+  {
+    "pin": "V18",
+    "name": "EXTRST#",
+    "page": 68
+  },
+  {
+    "pin": "W18",
+    "name": "CLKIN",
+    "page": 68
+  },
+  {
+    "pin": "Y18",
+    "name": "HBLED#",
+    "page": 69
+  },
+  {
+    "pin": "B6",
+    "name": "USB2B",
+    "page": 69
+  },
+  {
+    "pin": "A6",
+    "name": "USB2B",
+    "page": 69
+  },
+  {
+    "pin": "B8",
+    "name": "USB2AVRES",
+    "page": 69
+  },
+  {
+    "pin": "B7",
+    "name": "USB2BVRES",
+    "page": 69
+  },
+  {
+    "pin": "C7",
+    "name": "USB2AV33",
+    "page": 69
+  },
+  {
+    "pin": "K5",
+    "name": "DACDV33",
+    "page": 70
+  },
+  {
+    "pin": "K6",
+    "name": "DACAV33",
+    "page": 70
+  },
+  {
+    "pin": "F4",
+    "name": "ADC0",
+    "page": 70
+  },
+  {
+    "pin": "F5",
+    "name": "ADC1",
+    "page": 70
+  },
+  {
+    "pin": "E2",
+    "name": "ADC2",
+    "page": 70
+  },
+  {
+    "pin": "E1",
+    "name": "ADC3",
+    "page": 70
+  },
+  {
+    "pin": "F3",
+    "name": "ADC4",
+    "page": 70
+  },
+  {
+    "pin": "E3",
+    "name": "ADC5",
+    "page": 70
+  },
+  {
+    "pin": "G5",
+    "name": "ADC6",
+    "page": 70
+  },
+  {
+    "pin": "G4",
+    "name": "ADC7",
+    "page": 70
+  },
+  {
+    "pin": "F2",
+    "name": "ADC8",
+    "page": 70
+  },
+  {
+    "pin": "G3",
+    "name": "ADC9",
+    "page": 70
+  },
+  {
+    "pin": "G2",
+    "name": "ADC10",
+    "page": 70
+  },
+  {
+    "pin": "F1",
+    "name": "ADC11",
+    "page": 70
+  },
+  {
+    "pin": "H5",
+    "name": "ADC12",
+    "page": 70
+  },
+  {
+    "pin": "G1",
+    "name": "ADC13",
+    "page": 70
+  },
+  {
+    "pin": "H3",
+    "name": "ADC14",
+    "page": 70
+  },
+  {
+    "pin": "H4",
+    "name": "ADC15",
+    "page": 70
+  },
+  {
+    "pin": "H2",
+    "name": "ADCVREFP",
+    "page": 70
+  },
+  {
+    "pin": "H1",
+    "name": "ADCVREFN",
+    "page": 70
+  },
+  {
+    "pin": "J1",
+    "name": "ADCREXT",
+    "page": 70
+  },
+  {
+    "pin": "J6",
+    "name": "ADCAV33",
+    "page": 70
+  },
+  {
+    "pin": "V17",
+    "name": "PLLDV11",
+    "page": 71
+  },
+  {
+    "pin": "Y17",
+    "name": "PLLAV33",
+    "page": 71
+  },
+  {
+    "pin": "W17",
+    "name": "PLLAV33",
+    "page": 71
+  },
+  {
+    "pin": "T11",
+    "name": "MPLLAV33",
+    "page": 71
+  },
+  {
+    "pin": "L5",
+    "name": "VPLLAV11",
+    "page": 71
+  },
+  {
+    "pin": "L6",
+    "name": "VPLLAV11",
+    "page": 71
+  },
+  {
+    "pin": "J7",
+    "name": "VPLLAV33",
+    "page": 71
+  },
+  {
+    "pin": "H7",
+    "name": "VPLLAV33",
+    "page": 71
+  },
+  {
+    "pin": "F6",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "G10",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "G11",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "G12",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "G13",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "G14",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "G15",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "G7",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "G8",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "G9",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "H16",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "J16",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "L7",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "N16",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "N7",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "P10",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "P12",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "P13",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "P14",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "P16",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "P7",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "P9",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "R16",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "R7",
+    "name": "IV11D",
+    "page": 71
+  },
+  {
+    "pin": "L17",
+    "name": "PEAV11",
+    "page": 71
+  },
+  {
+    "pin": "T10",
+    "name": "MVDD",
+    "page": 71
+  },
+  {
+    "pin": "T12",
+    "name": "MVDD",
+    "page": 71
+  },
+  {
+    "pin": "T13",
+    "name": "MVDD",
+    "page": 71
+  },
+  {
+    "pin": "T14",
+    "name": "MVDD",
+    "page": 71
+  },
+  {
+    "pin": "T8",
+    "name": "MVDD",
+    "page": 71
+  },
+  {
+    "pin": "F12",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "F13",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "F14",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "F15",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "G16",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "H17",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "K7",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "N17",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "N6",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "P17",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "P6",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "R17",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "R6",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "T15",
+    "name": "PV33D",
+    "page": 72
+  },
+  {
+    "pin": "J17",
+    "name": "LPVDD",
+    "page": 72
+  },
+  {
+    "pin": "K17",
+    "name": "LPVDD",
+    "page": 72
+  },
+  {
+    "pin": "L16",
+    "name": "PEAV33",
+    "page": 72
+  },
+  {
+    "pin": "F10",
+    "name": "R1VDD",
+    "page": 72
+  },
+  {
+    "pin": "F11",
+    "name": "R1VDD",
+    "page": 72
+  },
+  {
+    "pin": "F7",
+    "name": "R2VDD",
+    "page": 72
+  },
+  {
+    "pin": "F8",
+    "name": "R2VDD",
+    "page": 72
+  },
+  {
+    "pin": "E4",
+    "name": "BATVDD",
+    "page": 72
+  },
+  {
+    "pin": "A1",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "A22",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "AA11",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "AA13",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "AA15",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "AA7",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "AA9",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "AB1",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "AB22",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "C6",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "E8",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "F16",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "G19",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "G6",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "H6",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "J10",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "J11",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "J12",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "J13",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "J14",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "J21",
+    "name": "GND",
+    "page": 72
+  },
+  {
+    "pin": "J22",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "J5",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "J9",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "K10",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "K11",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "K12",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "K13",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "K14",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "K16",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "K9",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "L10",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "L11",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "L12",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "L13",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "L14",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "L9",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M1",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M10",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M11",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M12",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M13",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M14",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M16",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M17",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M2",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M3",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M4",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M5",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M6",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M7",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "M9",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "N10",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "N11",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "N12",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "N13",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "N14",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "N9",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "T16",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "T6",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "T7",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "U11",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "U6",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "V10",
+    "name": "GND",
+    "page": 73
+  },
+  {
+    "pin": "V12",
+    "name": "GND",
+    "page": 74
+  },
+  {
+    "pin": "V14",
+    "name": "GND",
+    "page": 74
+  },
+  {
+    "pin": "V16",
+    "name": "GND",
+    "page": 74
+  },
+  {
+    "pin": "V8",
+    "name": "GND",
+    "page": 74
+  },
+  {
+    "pin": "E5",
+    "name": "GND",
+    "page": 74
+  },
+  {
+    "pin": "J3",
+    "name": "DACG",
+    "page": 74
+  },
+  {
+    "pin": "J4",
+    "name": "DACR",
+    "page": 74
+  },
+  {
+    "pin": "K20",
+    "name": "PEREXT",
+    "page": 74
+  },
+  {
+    "pin": "L20",
+    "name": "PERST#",
+    "page": 74
+  },
+  {
+    "pin": "K22",
+    "name": "PEREFCLKN",
+    "page": 74
+  },
+  {
+    "pin": "K21",
+    "name": "PEREFCLKP",
+    "page": 74
+  },
+  {
+    "pin": "M22",
+    "name": "PERXN",
+    "page": 74
+  },
+  {
+    "pin": "M21",
+    "name": "PERXP",
+    "page": 74
+  },
+  {
+    "pin": "L22",
+    "name": "PETXN",
+    "page": 74
+  },
+  {
+    "pin": "L21",
+    "name": "PETXP",
+    "page": 74
+  },
+  {
+    "pin": "N5",
+    "name": "GPIOJ4",
+    "page": 74
+  },
+  {
+    "pin": "R4",
+    "name": "GPIOJ5",
+    "page": 74
+  },
+  {
+    "pin": "R3",
+    "name": "GPIOJ6",
+    "page": 74
+  },
+  {
+    "pin": "T3",
+    "name": "GPIOJ7",
+    "page": 74
+  },
+  {
+    "pin": "T1",
+    "name": "GPIOL1",
+    "page": 74
+  },
+  {
+    "pin": "U2",
+    "name": "GPIOL3",
+    "page": 74
+  },
+  {
+    "pin": "P4",
+    "name": "GPIOL4",
+    "page": 74
+  },
+  {
+    "pin": "P3",
+    "name": "GPIOL5",
+    "page": 74
+  },
+  {
+    "pin": "Y1",
+    "name": "GPIOM0",
+    "page": 74
+  },
+  {
+    "pin": "AB2",
+    "name": "GPIOM1",
+    "page": 74
+  },
+  {
+    "pin": "AA1",
+    "name": "GPIOM2",
+    "page": 74
+  },
+  {
+    "pin": "Y2",
+    "name": "GPIOM3",
+    "page": 74
+  },
+  {
+    "pin": "AA2",
+    "name": "GPIOM4",
+    "page": 74
+  },
+  {
+    "pin": "P5",
+    "name": "GPIOM5",
+    "page": 74
+  },
+  {
+    "pin": "R5",
+    "name": "GPIOM6",
+    "page": 74
+  },
+  {
+    "pin": "T5",
+    "name": "GPIOM7",
+    "page": 74
+  },
+  {
+    "pin": "V3",
+    "name": "GPION2",
+    "page": 74
+  },
+  {
+    "pin": "U3",
+    "name": "GPION3",
+    "page": 74
+  },
+  {
+    "pin": "W3",
+    "name": "GPION4",
+    "page": 74
+  },
+  {
+    "pin": "AA3",
+    "name": "GPION5",
+    "page": 74
+  },
+  {
+    "pin": "Y3",
+    "name": "GPION6",
+    "page": 75
+  },
+  {
+    "pin": "T4",
+    "name": "GPION7",
+    "page": 75
+  },
+  {
+    "pin": "U5",
+    "name": "GPIOO0",
+    "page": 75
+  },
+  {
+    "pin": "U4",
+    "name": "GPIOO1",
+    "page": 75
+  },
+  {
+    "pin": "AB3",
+    "name": "GPIOO4",
+    "page": 75
+  },
+  {
+    "pin": "Y4",
+    "name": "GPIOO5",
+    "page": 75
+  },
+  {
+    "pin": "AA4",
+    "name": "GPIOO6",
+    "page": 75
+  },
+  {
+    "pin": "W4",
+    "name": "GPIOO7",
+    "page": 75
+  },
+  {
+    "pin": "V4",
+    "name": "GPIOP0",
+    "page": 75
+  },
+  {
+    "pin": "W5",
+    "name": "GPIOP1",
+    "page": 75
+  },
+  {
+    "pin": "AA5",
+    "name": "GPIOP2",
+    "page": 75
+  },
+  {
+    "pin": "AB5",
+    "name": "GPIOP3",
+    "page": 75
+  },
+  {
+    "pin": "V20",
+    "name": "GPIOS0",
+    "page": 75
+  },
+  {
+    "pin": "U19",
+    "name": "GPIOS1",
+    "page": 75
+  },
+  {
+    "pin": "R18",
+    "name": "GPIOS2",
+    "page": 75
+  },
+  {
+    "pin": "P18",
+    "name": "GPIOS3",
+    "page": 75
+  },
+  {
+    "pin": "R19",
+    "name": "GPIOS4",
+    "page": 75
+  },
+  {
+    "pin": "W20",
+    "name": "GPIOS5",
+    "page": 75
+  },
+  {
+    "pin": "U20",
+    "name": "GPIOS6",
+    "page": 75
+  },
+  {
+    "pin": "AA20",
+    "name": "GPIOS7",
+    "page": 75
+  },
+  {
+    "pin": "Y20",
+    "name": "GPIOZ0",
+    "page": 75
+  },
+  {
+    "pin": "AB20",
+    "name": "GPIOZ1",
+    "page": 75
+  },
+  {
+    "pin": "AB21",
+    "name": "GPIOZ2",
+    "page": 75
+  },
+  {
+    "pin": "AA21",
+    "name": "GPIOZ3",
+    "page": 75
+  },
+  {
+    "pin": "U21",
+    "name": "GPIOZ4",
+    "page": 75
+  },
+  {
+    "pin": "W22",
+    "name": "GPIOZ5",
+    "page": 75
+  },
+  {
+    "pin": "V22",
+    "name": "GPIOZ6",
+    "page": 75
+  },
+  {
+    "pin": "W21",
+    "name": "GPIOZ7",
+    "page": 75
+  },
+  {
+    "pin": "Y21",
+    "name": "GPIOAA0",
+    "page": 75
+  },
+  {
+    "pin": "V21",
+    "name": "GPIOAA1",
+    "page": 75
+  },
+  {
+    "pin": "Y22",
+    "name": "GPIOAA2",
+    "page": 75
+  },
+  {
+    "pin": "AA22",
+    "name": "GPIOAA3",
+    "page": 75
+  },
+  {
+    "pin": "U22",
+    "name": "GPIOAA4",
+    "page": 75
+  },
+  {
+    "pin": "T20",
+    "name": "GPIOAA5",
+    "page": 75
+  },
+  {
+    "pin": "N18",
+    "name": "GPIOAA6",
+    "page": 75
+  },
+  {
+    "pin": "P19",
+    "name": "GPIOAA7",
+    "page": 75
+  },
+  {
+    "pin": "N19",
+    "name": "GPIOAB0",
+    "page": 75
+  },
+  {
+    "pin": "T21",
+    "name": "GPIOAB1",
+    "page": 75
+  },
+  {
+    "pin": "T22",
+    "name": "GPIOAB2",
+    "page": 75
+  },
+  {
+    "pin": "R20",
+    "name": "GPIOAB3",
+    "page": 75
+  }
+]

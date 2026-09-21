@@ -1,0 +1,134 @@
+[
+  {
+    "file": "docs/reference/GL703GE-1.0.pdf",
+    "bytes": 2826896,
+    "sha256": "953b5b9e416722274512230ef83217915b57ef54d4269782c5827d5e172e3c06",
+    "source_url": "https://northridgefix.com/wp-content/uploads/wpforo/default_attachments/1671375497-GL703GE-10-schematic0_15_0.pdf",
+    "status": "downloaded reference; manufacturer versus third-party hosting indicated by URL"
+  },
+  {
+    "file": "docs/reference/Gigabyte_H310M_S2P_2.0_Rev_1.0 PDF .pdf",
+    "bytes": 3161137,
+    "sha256": "891a04c45cd769e0f2d023cdc405daa6b33229d5bcec2ff76e6d3c2f20b5e979",
+    "source_url": "https://www.indiafix.in/2024/07/h310m-s2p-20-bios-dumpschematicboardvie.html",
+    "status": "downloaded reference; manufacturer versus third-party hosting indicated by URL"
+  },
+  {
+    "file": "docs/reference/ast2500-datasheet.pdf",
+    "bytes": 5554046,
+    "sha256": "757f13ac745c3d071fb0b1e4d48be2146c257db9495d71874933c16d530e5f1f",
+    "source_url": "https://www2.vgamuseum.info/images/doc/aspeed/ast2520a2gp_datasheet.pdf",
+    "status": "downloaded reference; manufacturer versus third-party hosting indicated by URL"
+  },
+  {
+    "file": "docs/reference/dp83867is.pdf",
+    "bytes": 3034340,
+    "sha256": "64b71a7c18ab4ac14dea02be13155f89ab43aabe955f33fd1e9027d13f40f90c",
+    "source_url": "https://www.ti.com/lit/ds/symlink/dp83867is.pdf",
+    "status": "downloaded reference; manufacturer versus third-party hosting indicated by URL"
+  },
+  {
+    "file": "docs/reference/h310-boardview.rar",
+    "bytes": 540325,
+    "sha256": "d91ed9a4278010f3a9d76487a06957ab86aa918dc91690c3d611bfd17c16b2b0",
+    "source_url": "https://drive.google.com/uc?export=download&id=1mdtomc_MSSI301CXJNiF1A0D_eZqRtno",
+    "status": "downloaded; not extracted or electrically used"
+  },
+  {
+    "file": "docs/reference/h310-schematic.rar",
+    "bytes": 2773258,
+    "sha256": "4e6f97fb9b67df2c83a576e3c62a0816b3921703429572d3f6bec566b3936961",
+    "source_url": "https://drive.google.com/uc?export=download&id=1cXr5gEtWo5VuF4S7th67DnYHn3xRkZW0",
+    "status": "downloaded reference; manufacturer versus third-party hosting indicated by URL"
+  },
+  {
+    "file": "docs/reference/i219.pdf",
+    "bytes": 3841139,
+    "sha256": "caebdd2705b73d781f90f405290de0ea7f5b97c9704998f1db5d808c8a12334d",
+    "source_url": "https://cdrdv2-public.intel.com/612523/ethernet-connection-i219-datasheet.pdf",
+    "status": "downloaded reference; manufacturer versus third-party hosting indicated by URL"
+  },
+  {
+    "file": "docs/reference/intel-cpu-337344.pdf",
+    "bytes": 5588439,
+    "sha256": "bc38a3497e5a1cec25632768a1a43da8da8767ce251d2b89ee742035380ddce7",
+    "source_url": "https://cdrdv2-public.intel.com/337344/337344_8th-gen-core-family-datasheet-vol-1_Rev009.pdf",
+    "status": "downloaded reference; manufacturer versus third-party hosting indicated by URL"
+  },
+  {
+    "file": "docs/reference/intel-pch-337347.pdf",
+    "bytes": 2712402,
+    "sha256": "30d0c0d51b3ac83da55708880ece7472b77bdeac3d22fc58c61dd557aac1f3b7",
+    "source_url": "https://cdrdv2-public.intel.com/337347/337347_CNL_PCH_EDS_H_009.pdf",
+    "status": "downloaded reference; manufacturer versus third-party hosting indicated by URL"
+  },
+  {
+    "file": "docs/reference/tps51200.pdf",
+    "bytes": 1801374,
+    "sha256": "aba58b616681c52dfdefd9611c92af68b7904197b58e92226dd14fee402e12b5",
+    "source_url": "https://www.ti.com/lit/ds/symlink/tps51200.pdf",
+    "status": "downloaded reference; manufacturer versus third-party hosting indicated by URL"
+  },
+  {
+    "file": "docs/reference/tps54302.pdf",
+    "bytes": 2316621,
+    "sha256": "1632b388d1ba3a46c8e8f090ddfec2114c0f538cfb8364ddcda583fee3fdbdc5",
+    "source_url": "https://www.ti.com/lit/ds/symlink/tps54302.pdf",
+    "status": "downloaded reference; manufacturer versus third-party hosting indicated by URL"
+  },
+  {
+    "file": "docs/reference/x11sch-f-manual.pdf",
+    "bytes": 8195840,
+    "sha256": "ff054b3f0790bbd0edb2144f77d3fc0a5a270cce78b9a1732b9800d0f3632a3c",
+    "source_url": "https://www.supermicro.com/manuals/motherboard/X11/MNL-2105.pdf",
+    "status": "downloaded reference; manufacturer versus third-party hosting indicated by URL"
+  },
+  {
+    "file": "docs/reference/foxconn-lga1151.pdf",
+    "bytes": 659757,
+    "sha256": "dc16769783c71e47645a4505ee09ab3f3295831993e712c6f4c5e5773798db39",
+    "status": "Downloaded reference; provenance in library status, catalog or research tool records"
+  },
+  {
+    "file": "docs/reference/q370-pac2000.pdf",
+    "bytes": 447145,
+    "sha256": "bcde4b17bc95635d710cfc7847d5d1078aedd3799a5c8bec97cd6b70ce2b261a",
+    "status": "Downloaded reference; provenance in library status, catalog or research tool records"
+  },
+  {
+    "file": "docs/reference/renesas-l52.pdf",
+    "bytes": 250957,
+    "sha256": "d6b0bf2b111df9bab808f47ec1bfb56407b3e5dda572071916da3009f2b4008c",
+    "status": "Downloaded reference; provenance in library status, catalog or research tool records"
+  },
+  {
+    "file": "docs/reference/Gigabyte H310M S2P 2.0 Rev 1.0 BoardView (BDV)(.TVW) .tvw",
+    "bytes": 2785951,
+    "sha256": "e7621e266bd419ee0b73948e96edc0d034fa6a98853307dad4aed63abb62f8ab",
+    "status": "Downloaded reference; provenance in library status, catalog or research tool records"
+  },
+  {
+    "file": "docs/reference/te-2309407.pdf",
+    "bytes": 352954,
+    "sha256": "047e603ec11aa0c5bb77d83c749d6d1fe773d9face693bec3bb12e7839c3b3dc",
+    "status": "Downloaded reference; provenance in library status, catalog or research tool records"
+  },
+  {
+    "file": "docs/reference/abracon-abs07.pdf",
+    "bytes": 503981,
+    "sha256": "5b21d42d9ca704d86cfb8f1b93488f3f3671c55ca90f334aa66f931866277dd1",
+    "status": "Downloaded reference; provenance in library status, catalog or research tool records"
+  },
+  {
+    "file": "docs/reference/abracon-abm8.pdf",
+    "bytes": 1535935,
+    "sha256": "564ac331d8bf38b4ae1222444b0d9cfea3a6ba29148a8be906b2e0ffe40471d8",
+    "status": "Downloaded reference; provenance in library status, catalog or research tool records"
+  },
+  {
+    "file": "docs/reference/coilcraft-lps4018.pdf",
+    "bytes": 253107,
+    "sha256": "0165e2a53524b2518b7367b6613b3b4ccc4ffc4ed8cdab5e267101581584eeac",
+    "status": "Downloaded reference; provenance in library status, catalog or research tool records"
+  }
+]

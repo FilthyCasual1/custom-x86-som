@@ -1,0 +1,86 @@
+{
+  "R": {
+    "footprint": "SOM:R_0603_1608Metric",
+    "status": "Stock KiCad footprint; exact purchased part and pad mapping require review",
+    "source": "Resistor_SMD:R_0603_1608Metric"
+  },
+  "C": {
+    "footprint": "SOM:C_0603_1608Metric",
+    "status": "Stock KiCad footprint; exact purchased part and pad mapping require review",
+    "source": "Capacitor_SMD:C_0603_1608Metric"
+  },
+  "DDR4_SODIMM_260": {
+    "footprint": "SOM:SODIMM-260_DDR4_H4.0-5.2_OrientationStd_Socket",
+    "status": "TE2309407 Rev5 PCB drawing checked:260contacts,0.5pitch,8.2rowspacing,0.3x1.75lands,3.5x4.6anchors; stock contact pad length corrected from1.7 to1.75",
+    "source": "docs/reference/te-2309407.pdf sheet2"
+  },
+  "TPS51200": {
+    "footprint": "SOM:VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm",
+    "status": "Stock KiCad footprint; exact purchased part and pad mapping require review",
+    "source": "Package_SON:VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm"
+  },
+  "SPI_NOR_8": {
+    "footprint": "SOM:SOIC-8_3.9x4.9mm_P1.27mm",
+    "status": "Stock KiCad footprint; exact purchased part and pad mapping require review",
+    "source": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+  },
+  "EPS12V": {
+    "footprint": "SOM:Molex_Mini-Fit_Jr_5566-08A_2x04_P4.20mm_Vertical",
+    "status": "Stock KiCad footprint; exact purchased part and pad mapping require review",
+    "source": "Connector_Molex:Molex_Mini-Fit_Jr_5566-08A_2x04_P4.20mm_Vertical"
+  },
+  "I219_reference": {
+    "footprint": "SOM:Intel_I219_QFN48_EP3",
+    "status": "Corrected to manufacturer package: EP3x3 and0.4 pitch; land extension and thermal vias require assembly review",
+    "source": "docs/reference/i219.pdf pp41,254"
+  },
+  "CoffeeLake_LGA1151": {
+    "footprint": "SOM:CoffeeLake_LGA1151_PLACEMENT_ONLY",
+    "status": "Manufacturer socket drawing obtained; 1151 socket solder-ball numbering map not yet verified. Padless envelope retained; do not route.",
+    "assumed_envelope_mm": [
+      78,
+      78
+    ],
+    "manufacturer": "Foxconn",
+    "mpn": "PE115127-4041-01H",
+    "source": "docs/reference/foxconn-lga1151.pdf sheet1"
+  },
+  "Q370_draft": {
+    "footprint": "SOM:Q370_draft_PLACEMENT_ONLY",
+    "status": "Manufacturer confirms23x24 package; 874ball map recovered. Pitch/land dimensions unresolved; padless envelope retained.",
+    "assumed_envelope_mm": [
+      23,
+      24
+    ]
+  },
+  "AST2500_host_draft": {
+    "footprint": "SOM:ASPEED_AST2500A2_GP_BGA456_19x19_P0.8",
+    "status": "456-ball occupancy and0.8 pitch checked against package; copper diameter0.35 remains provisional",
+    "source": "docs/reference/ast2500-datasheet.pdf pp77-78,124"
+  },
+  "ISL95866_reference": {
+    "footprint": "SOM:Renesas_L52_6x6A_QFN52_EP4.7",
+    "status": "Copper land dimensions checked against manufacturer recommended pattern; package-to-device association donor-derived",
+    "source": "docs/reference/renesas-l52.pdf"
+  },
+  "L": {
+    "footprint": "SOM:L_Coilcraft_LPS4018",
+    "status": "Specific package candidate; electrical rating/load capacitance not approved",
+    "source": "Inductor_SMD:L_Coilcraft_LPS4018"
+  },
+  "FUSE": {
+    "footprint": "SOM:Fuse_Littelfuse-NANO2-451_453",
+    "status": "Specific package candidate; electrical rating/load capacitance not approved",
+    "source": "Fuse:Fuse_Littelfuse-NANO2-451_453"
+  },
+  "XTAL": {
+    "footprint": "SOM:Crystal_SMD_3215-2Pin_3.2x1.5mm",
+    "status": "Specific package candidate; electrical rating/load capacitance not approved",
+    "source": "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm"
+  },
+  "ABM8": {
+    "footprint": "SOM:Crystal_SMD_3225-4Pin_3.2x2.5mm",
+    "status": "Specific package candidate; electrical rating/load capacitance not approved",
+    "source": "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
+  }
+}

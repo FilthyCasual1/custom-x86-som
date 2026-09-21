@@ -1,0 +1,107 @@
+{
+  "CoffeeLake_LGA1151": {
+    "Manufacturer": "Foxconn",
+    "MPN": "PE115127-4041-01H",
+    "Datasheet": "docs/reference/foxconn-lga1151.pdf",
+    "Status": "Socket, CPU SKU separate; solder-ball mapping incomplete",
+    "Footprint": "SOM:CoffeeLake_LGA1151_PLACEMENT_ONLY"
+  },
+  "DDR4_SODIMM_260": {
+    "Manufacturer": "TE Connectivity",
+    "MPN": "2309407-1",
+    "Datasheet": "docs/reference/te-2309407.pdf",
+    "Status": "4mm standard orientation; 260contacts; gold flash; drawing verified",
+    "Footprint": "SOM:SODIMM-260_DDR4_H4.0-5.2_OrientationStd_Socket"
+  },
+  "EPS12V": {
+    "Manufacturer": "Molex",
+    "MPN": "39-28-1083",
+    "Datasheet": "https://www.molex.com/en-us/products/part-detail/39281083",
+    "Status": "Candidate header; EPS keying and numbering not yet verified",
+    "Footprint": "SOM:Molex_Mini-Fit_Jr_5566-08A_2x04_P4.20mm_Vertical"
+  },
+  "Q370_draft": {
+    "Manufacturer": "Intel",
+    "MPN": "FH82Q370",
+    "Datasheet": "https://www.intel.com/content/www/us/en/products/sku/133282/intel-q370-chipset/specifications.html",
+    "Status": "Ordering suffix and land pattern unresolved",
+    "Footprint": "SOM:Q370_draft_PLACEMENT_ONLY"
+  },
+  "AST2500_host_draft": {
+    "Manufacturer": "ASPEED",
+    "MPN": "AST2500A2-GP",
+    "Datasheet": "docs/reference/ast2500-datasheet.pdf",
+    "Status": "456balls;19x19;0.8mm",
+    "Footprint": "SOM:ASPEED_AST2500A2_GP_BGA456_19x19_P0.8"
+  },
+  "ISL95866_reference": {
+    "Manufacturer": "Renesas",
+    "MPN": "ISL95866HRZ-T",
+    "Datasheet": "docs/reference/renesas-l52.pdf",
+    "Status": "Donor reference; obsolete; replacement not selected",
+    "Footprint": "SOM:Renesas_L52_6x6A_QFN52_EP4.7"
+  },
+  "I219_reference": {
+    "Manufacturer": "Intel",
+    "MPN": "WGI219LM",
+    "Datasheet": "docs/reference/i219.pdf",
+    "Status": "Exact Q370-compatible stepping/order code still required",
+    "Footprint": "SOM:Intel_I219_QFN48_EP3"
+  },
+  "TPS51200": {
+    "Manufacturer": "Texas Instruments",
+    "MPN": "TPS51200DRCR",
+    "Datasheet": "docs/reference/tps51200.pdf",
+    "Status": "DRC VSON10+EP; tape/reel",
+    "Footprint": "SOM:VSON-10-1EP_3x3mm_P0.5mm_EP1.65x2.4mm"
+  },
+  "L": {
+    "Manufacturer": "Coilcraft",
+    "MPN": "LPS4018-472MRC",
+    "Datasheet": "https://www.coilcraft.com/en-us/products/power/shielded-inductors/ferrite-drum/lps/lps4018/lps4018-472/",
+    "Status": "4.7uH candidate; current/ripple check pending",
+    "Footprint": "SOM:L_Coilcraft_LPS4018"
+  },
+  "FUSE": {
+    "Manufacturer": "Littelfuse",
+    "MPN": "0451015.MRL",
+    "Datasheet": "https://www.littelfuse.com/assetdocs/fuse-451-and-453-datasheet?assetguid=533cd5cc-956c-4243-867f-6ab5a62f6ba1",
+    "Status": "15A package candidate only; system protection rating not approved",
+    "Footprint": "SOM:Fuse_Littelfuse-NANO2-451_453"
+  },
+  "XTAL": {
+    "Manufacturer": "Abracon",
+    "MPN": "ABS07-32.768KHZ-7-T",
+    "Datasheet": "https://abracon.com/Resonators/ABS07.pdf",
+    "Status": "7pF candidate; RTC load/startup check pending",
+    "Footprint": "SOM:Crystal_SMD_3215-2Pin_3.2x1.5mm"
+  },
+  "ABM8": {
+    "Manufacturer": "Abracon",
+    "MPN": "ABM8-25.000MHZ-D2Y-T",
+    "Datasheet": "https://abracon.com/Resonators/abm8.pdf",
+    "Status": "18pF candidate; oscillator validation required",
+    "Footprint": "SOM:Crystal_SMD_3225-4Pin_3.2x2.5mm"
+  },
+  "SPI_NOR_8": {
+    "Manufacturer": "Unselected",
+    "MPN": "TBD",
+    "Datasheet": "",
+    "Status": "Flash voltage/capacity and BIOS compatibility unresolved; do not buy a generic substitute",
+    "Footprint": "SOM:SOIC-8_3.9x4.9mm_P1.27mm"
+  },
+  "R": {
+    "Manufacturer": "Unselected",
+    "MPN": "TBD",
+    "Datasheet": "",
+    "Status": "0603 template; exact value/tolerance/rating selects MPN",
+    "Footprint": "SOM:R_0603_1608Metric"
+  },
+  "C": {
+    "Manufacturer": "Unselected",
+    "MPN": "TBD",
+    "Datasheet": "",
+    "Status": "0603 template; bulk capacitance and DC bias may require larger package",
+    "Footprint": "SOM:C_0603_1608Metric"
+  }
+}

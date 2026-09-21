@@ -1,0 +1,202 @@
+[
+  {
+    "pin": "43",
+    "name": "I2DATA"
+  },
+  {
+    "pin": "42",
+    "name": "I2CLK"
+  },
+  {
+    "pin": "29",
+    "name": "BOOT2_A"
+  },
+  {
+    "pin": "31",
+    "name": "UGATE2_A"
+  },
+  {
+    "pin": "30",
+    "name": "PHASE2_A"
+  },
+  {
+    "pin": "33",
+    "name": "LGATE2_A"
+  },
+  {
+    "pin": "38",
+    "name": "PWM3_A"
+  },
+  {
+    "pin": "39",
+    "name": "NC/PWM4_A"
+  },
+  {
+    "pin": "23",
+    "name": "COMP_A"
+  },
+  {
+    "pin": "17",
+    "name": "ISEN1_A"
+  },
+  {
+    "pin": "16",
+    "name": "ISEN2_A"
+  },
+  {
+    "pin": "15",
+    "name": "ISEN3_A"
+  },
+  {
+    "pin": "14",
+    "name": "NC/ISEN4_A"
+  },
+  {
+    "pin": "22",
+    "name": "FB_A"
+  },
+  {
+    "pin": "18",
+    "name": "ISUMP_A"
+  },
+  {
+    "pin": "21",
+    "name": "FB2_A"
+  },
+  {
+    "pin": "20",
+    "name": "RTN_A"
+  },
+  {
+    "pin": "19",
+    "name": "ISUMN_A"
+  },
+  {
+    "pin": "12",
+    "name": "NTC_A"
+  },
+  {
+    "pin": "13",
+    "name": "IMON_A"
+  },
+  {
+    "pin": "37",
+    "name": "BOOT1_B"
+  },
+  {
+    "pin": "36",
+    "name": "UGATE1_B"
+  },
+  {
+    "pin": "35",
+    "name": "PHASE1_B"
+  },
+  {
+    "pin": "34",
+    "name": "LGATE1_B"
+  },
+  {
+    "pin": "46",
+    "name": "FB_B"
+  },
+  {
+    "pin": "47",
+    "name": "FB2_B"
+  },
+  {
+    "pin": "40",
+    "name": "PWM2_B"
+  },
+  {
+    "pin": "45",
+    "name": "COMP_B"
+  },
+  {
+    "pin": "9",
+    "name": "PSYS"
+  },
+  {
+    "pin": "44",
+    "name": "VIN"
+  },
+  {
+    "pin": "25",
+    "name": "BOOT1_A"
+  },
+  {
+    "pin": "27",
+    "name": "UGATE1_A"
+  },
+  {
+    "pin": "26",
+    "name": "PHASE1_A"
+  },
+  {
+    "pin": "28",
+    "name": "LGATE1_A"
+  },
+  {
+    "pin": "5",
+    "name": "SCLK"
+  },
+  {
+    "pin": "6",
+    "name": "ALERT#"
+  },
+  {
+    "pin": "7",
+    "name": "SDA"
+  },
+  {
+    "pin": "8",
+    "name": "VR_ENABLE"
+  },
+  {
+    "pin": "11",
+    "name": "VR_READY"
+  },
+  {
+    "pin": "4",
+    "name": "VR_HOT#"
+  },
+  {
+    "pin": "48",
+    "name": "RTN_B"
+  },
+  {
+    "pin": "41",
+    "name": "NC/PWM3_B"
+  },
+  {
+    "pin": "51",
+    "name": "ISEN1_B"
+  },
+  {
+    "pin": "52",
+    "name": "ISEN2_B"
+  },
+  {
+    "pin": "1",
+    "name": "NC/ISEN3_B"
+  },
+  {
+    "pin": "49",
+    "name": "ISUMN_B"
+  },
+  {
+    "pin": "2",
+    "name": "NTC_B"
+  },
+  {
+    "pin": "10",
+    "name": "PROG"
+  },
+  {
+    "pin": "3",
+    "name": "IMON_B"
+  },
+  {
+    "pin": "50",
+    "name": "ISUMP_B"
+  }
+]

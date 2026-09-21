@@ -1,0 +1,386 @@
+[
+  {
+    "ref": "U1",
+    "pin": "AC38",
+    "name": "SKTOCC#",
+    "sheet": "01_cpu_platform"
+  },
+  {
+    "ref": "U1",
+    "pin": "H13",
+    "name": "CPU_JTAG_TDO",
+    "sheet": "01_cpu_platform"
+  },
+  {
+    "ref": "U1",
+    "pin": "G12",
+    "name": "CPU_JTAG_TDI",
+    "sheet": "01_cpu_platform"
+  },
+  {
+    "ref": "U1",
+    "pin": "F13",
+    "name": "CPU_JTAG_TMS",
+    "sheet": "01_cpu_platform"
+  },
+  {
+    "ref": "U1",
+    "pin": "F11",
+    "name": "CPU_JTAG_TCK",
+    "sheet": "01_cpu_platform"
+  },
+  {
+    "ref": "U1",
+    "pin": "F12",
+    "name": "CPU_JTAG_TRST#",
+    "sheet": "01_cpu_platform"
+  },
+  {
+    "ref": "U1",
+    "pin": "B9",
+    "name": "PREQ#",
+    "sheet": "01_cpu_platform"
+  },
+  {
+    "ref": "U1",
+    "pin": "B10",
+    "name": "PRDY#",
+    "sheet": "01_cpu_platform"
+  },
+  {
+    "ref": "U1",
+    "pin": "AB36",
+    "name": "SKLKBL_Z_CFL62#",
+    "sheet": "01_cpu_platform"
+  },
+  {
+    "ref": "U1",
+    "pin": "D13",
+    "name": "CATERR#",
+    "sheet": "01_cpu_platform"
+  },
+  {
+    "ref": "U1",
+    "pin": "F14",
+    "name": "NOA_STBP[0]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "E14",
+    "name": "NOA_STBN[0]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "F18",
+    "name": "NOA_STBP[1]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "G18",
+    "name": "NOA_STBN[1]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "D16",
+    "name": "MBP#[0]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "D17",
+    "name": "MBP#[1]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "G14",
+    "name": "MBP#[2]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "H14",
+    "name": "MBP#[3]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "M11",
+    "name": "NOA_RCOMP",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "H15",
+    "name": "NOA_N[0]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "F15",
+    "name": "NOA_N[1]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "F16",
+    "name": "NOA_N[2]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "H16",
+    "name": "NOA_N[3]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "F19",
+    "name": "NOA_N[4]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "H18",
+    "name": "NOA_N[5]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "G21",
+    "name": "NOA_N[6]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "H20",
+    "name": "NOA_N[7]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "G16",
+    "name": "NOA_N[8]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "E16",
+    "name": "NOA_N[9]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "F17",
+    "name": "NOA_N[10]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "H17",
+    "name": "NOA_N[11]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "G20",
+    "name": "NOA_N[12]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "F20",
+    "name": "NOA_N[13]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "F21",
+    "name": "NOA_N[14]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "H19",
+    "name": "NOA_N[15]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "J8",
+    "name": "PEG_VIEW[0]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "J7",
+    "name": "PEG_VIEW[1]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "L8",
+    "name": "PEG_VIEW[2]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "K8",
+    "name": "PEG_VIEW[3]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "AV1",
+    "name": "DDR_VIEW[0]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "AW2",
+    "name": "DDR_VIEW[1]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "H8",
+    "name": "EXTBGREF",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "K10",
+    "name": "FIVR_PROBE_ANA[0]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "L10",
+    "name": "FIVR_PROBE_ANA[1]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "G8",
+    "name": "CPU_EDM[0]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "AY3",
+    "name": "CPU_EDM[1]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "D1",
+    "name": "CPU_TRIGGERIN",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "B3",
+    "name": "CPUTRIGGEROUT",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "L12",
+    "name": "HVM_CLK_P",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "K12",
+    "name": "HVM_CLK_N",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "AC37",
+    "name": "RSVD_AC37",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "AB35",
+    "name": "RSVD_AB35",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "AB37",
+    "name": "RSVD_AB37",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "AB38",
+    "name": "RSVD_AB38",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "AJ22",
+    "name": "RSVD_AJ22",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "D15",
+    "name": "RSVD_D15",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "K11",
+    "name": "RSVD_K11",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "J15",
+    "name": "THERMDA1",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "J14",
+    "name": "THERMDC1",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "AU9",
+    "name": "THERMDA2",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "AU10",
+    "name": "THERMDC2",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "J13",
+    "name": "LGC_SPARE[0]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "K13",
+    "name": "LGC_SPARE[1]",
+    "sheet": "08_cpu_reserved_7"
+  },
+  {
+    "ref": "U1",
+    "pin": "J11",
+    "name": "LGC_SPARE[2]",
+    "sheet": "08_cpu_reserved_7"
+  }
+]

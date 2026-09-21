@@ -1,0 +1,4372 @@
+[
+  {
+    "pin": "AR2",
+    "name": "CL_CLK",
+    "page": 102
+  },
+  {
+    "pin": "AB3",
+    "name": "CLKOUT_PCIE_P5",
+    "page": 102
+  },
+  {
+    "pin": "AT5",
+    "name": "CL_DATA",
+    "page": 102
+  },
+  {
+    "pin": "W3",
+    "name": "CLKOUT_PCIE_P6",
+    "page": 102
+  },
+  {
+    "pin": "BF44",
+    "name": "GPD0 / BATLOW#",
+    "page": 102
+  },
+  {
+    "pin": "AU4",
+    "name": "CL_RST#",
+    "page": 102
+  },
+  {
+    "pin": "W6",
+    "name": "CLKOUT_PCIE_P7",
+    "page": 102
+  },
+  {
+    "pin": "BG42",
+    "name": "GPD1 / ACPRESENT",
+    "page": 102
+  },
+  {
+    "pin": "R6",
+    "name": "CLKIN_XTAL",
+    "page": 102
+  },
+  {
+    "pin": "AC15",
+    "name": "CLKOUT_PCIE_P8",
+    "page": 102
+  },
+  {
+    "pin": "BC42",
+    "name": "GPD10 / SLP_S5#",
+    "page": 102
+  },
+  {
+    "pin": "C8",
+    "name": "CLKOUT_CPUBCLK_N",
+    "page": 102
+  },
+  {
+    "pin": "U3",
+    "name": "CLKOUT_PCIE_P9",
+    "page": 102
+  },
+  {
+    "pin": "BF41",
+    "name": "GPD11 / LANPHYPC",
+    "page": 102
+  },
+  {
+    "pin": "B8",
+    "name": "CLKOUT_CPUBCLK_P",
+    "page": 102
+  },
+  {
+    "pin": "BD4",
+    "name": "CNV_WR_CLKN",
+    "page": 102
+  },
+  {
+    "pin": "BG44",
+    "name": "GPD2 / LAN_WAKE#",
+    "page": 102
+  },
+  {
+    "pin": "C6",
+    "name": "CLKOUT_CPUNSSC_N",
+    "page": 102
+  },
+  {
+    "pin": "BE3",
+    "name": "CNV_WR_CLKP",
+    "page": 102
+  },
+  {
+    "pin": "BE46",
+    "name": "GPD3 / PWRBTN#",
+    "page": 102
+  },
+  {
+    "pin": "D7",
+    "name": "CLKOUT_CPUNSSC_P",
+    "page": 102
+  },
+  {
+    "pin": "BB3",
+    "name": "CNV_WR_D0N",
+    "page": 102
+  },
+  {
+    "pin": "BF42",
+    "name": "GPD4 / SLP_S3#",
+    "page": 102
+  },
+  {
+    "pin": "B6",
+    "name": "CLKOUT_CPUPCIBCLK_N",
+    "page": 102
+  },
+  {
+    "pin": "BB4",
+    "name": "CNV_WR_D0P",
+    "page": 102
+  },
+  {
+    "pin": "BE42",
+    "name": "GPD5 / SLP_S4#",
+    "page": 102
+  },
+  {
+    "pin": "A6",
+    "name": "CLKOUT_CPUPCIBCLK_P",
+    "page": 102
+  },
+  {
+    "pin": "BA3",
+    "name": "CNV_WR_D1N",
+    "page": 102
+  },
+  {
+    "pin": "BE40",
+    "name": "GPD6 / SLP_A#",
+    "page": 102
+  },
+  {
+    "pin": "Y3",
+    "name": "CLKOUT_ITPXDP_N",
+    "page": 102
+  },
+  {
+    "pin": "BA2",
+    "name": "CNV_WR_D1P",
+    "page": 102
+  },
+  {
+    "pin": "BE41",
+    "name": "GPD7",
+    "page": 102
+  },
+  {
+    "pin": "Y4",
+    "name": "CLKOUT_ITPXDP_P",
+    "page": 102
+  },
+  {
+    "pin": "BC5",
+    "name": "CNV_WT_CLKN",
+    "page": 102
+  },
+  {
+    "pin": "BE45",
+    "name": "GPD8 / SUSCLK",
+    "page": 102
+  },
+  {
+    "pin": "AJ6",
+    "name": "CLKOUT_PCIE_N0",
+    "page": 102
+  },
+  {
+    "pin": "BB6",
+    "name": "CNV_WT_CLKP",
+    "page": 102
+  },
+  {
+    "pin": "BD42",
+    "name": "GPD9 / SLP_WLAN#",
+    "page": 102
+  },
+  {
+    "pin": "AH9",
+    "name": "CLKOUT_PCIE_N1",
+    "page": 102
+  },
+  {
+    "pin": "BE6",
+    "name": "CNV_WT_D0N",
+    "page": 102
+  },
+  {
+    "pin": "AV32",
+    "name": "GPP_A8 / CLKRUN#",
+    "page": 102
+  },
+  {
+    "pin": "AC9",
+    "name": "CLKOUT_PCIE_N10",
+    "page": 102
+  },
+  {
+    "pin": "BD7",
+    "name": "CNV_WT_D0P",
+    "page": 102
+  },
+  {
+    "pin": "AE9",
+    "name": "CLKOUT_PCIE_N11",
+    "page": 102
+  },
+  {
+    "pin": "BG6",
+    "name": "CNV_WT_D1N",
+    "page": 102
+  },
+  {
+    "pin": "BE39",
+    "name": "GPP_A0/RCIN#/",
+    "page": 102
+  },
+  {
+    "pin": "BB39",
+    "name": "GPP_A1/LAD0/ ESPI_IO0",
+    "page": 102
+  },
+  {
+    "pin": "AC7",
+    "name": "CLKOUT_PCIE_N12",
+    "page": 102
+  },
+  {
+    "pin": "BF6",
+    "name": "CNV_WT_D1P",
+    "page": 102
+  },
+  {
+    "pin": "BB34",
+    "name": "GPP_A10 / CLKOUT_LPC1",
+    "page": 102
+  },
+  {
+    "pin": "AA1",
+    "name": "CLKOUT_PCIE_N13",
+    "page": 102
+  },
+  {
+    "pin": "BA1",
+    "name": "CNV_WT_RCOMP",
+    "page": 102
+  },
+  {
+    "pin": "T2",
+    "name": "CLKOUT_PCIE_N14",
+    "page": 102
+  },
+  {
+    "pin": "AM4",
+    "name": "CPU_TRST#",
+    "page": 102
+  },
+  {
+    "pin": "BE36",
+    "name": "GPP_A11 / PME# /",
+    "page": 102
+  },
+  {
+    "pin": "V2",
+    "name": "CLKOUT_PCIE_N15",
+    "page": 102
+  },
+  {
+    "pin": "AE3",
+    "name": "CPUPWRGD",
+    "page": 102
+  },
+  {
+    "pin": "BF36",
+    "name": "GPP_A12 / BM_BUSY# /",
+    "page": 102
+  },
+  {
+    "pin": "AE14",
+    "name": "CLKOUT_PCIE_N2",
+    "page": 102
+  },
+  {
+    "pin": "BF47",
+    "name": "DCPRTC",
+    "page": 102
+  },
+  {
+    "pin": "AE6",
+    "name": "CLKOUT_PCIE_N3",
+    "page": 102
+  },
+  {
+    "pin": "BG47",
+    "name": "DCPRTC",
+    "page": 102
+  },
+  {
+    "pin": "BC37",
+    "name": "GPP_A13 / SUSWARN# /",
+    "page": 102
+  },
+  {
+    "pin": "AC2",
+    "name": "CLKOUT_PCIE_N4",
+    "page": 102
+  },
+  {
+    "pin": "K34",
+    "name": "DMI0_RXN",
+    "page": 102
+  },
+  {
+    "pin": "BF38",
+    "name": "GPP_A14 / SUS_STAT# /",
+    "page": 102
+  },
+  {
+    "pin": "AB2",
+    "name": "CLKOUT_PCIE_N5",
+    "page": 102
+  },
+  {
+    "pin": "J35",
+    "name": "DMI0_RXP",
+    "page": 102
+  },
+  {
+    "pin": "BE35",
+    "name": "GPP_A15 / SUSACK#",
+    "page": 102
+  },
+  {
+    "pin": "W4",
+    "name": "CLKOUT_PCIE_N6",
+    "page": 102
+  },
+  {
+    "pin": "C33",
+    "name": "DMI0_TXN",
+    "page": 102
+  },
+  {
+    "pin": "BE33",
+    "name": "GPP_A16 / CLKOUT_48",
+    "page": 102
+  },
+  {
+    "pin": "W7",
+    "name": "CLKOUT_PCIE_N7",
+    "page": 102
+  },
+  {
+    "pin": "B33",
+    "name": "DMI0_TXP",
+    "page": 102
+  },
+  {
+    "pin": "AC14",
+    "name": "CLKOUT_PCIE_N8",
+    "page": 102
+  },
+  {
+    "pin": "G33",
+    "name": "DMI1_RXN",
+    "page": 102
+  },
+  {
+    "pin": "BD38",
+    "name": "GPP_A17/",
+    "page": 102
+  },
+  {
+    "pin": "U2",
+    "name": "CLKOUT_PCIE_N9",
+    "page": 102
+  },
+  {
+    "pin": "F34",
+    "name": "DMI1_RXP",
+    "page": 102
+  },
+  {
+    "pin": "BF35",
+    "name": "GPP_A18 / ISH_GP0",
+    "page": 102
+  },
+  {
+    "pin": "AJ7",
+    "name": "CLKOUT_PCIE_P0",
+    "page": 102
+  },
+  {
+    "pin": "C32",
+    "name": "DMI1_TXN",
+    "page": 102
+  },
+  {
+    "pin": "BD34",
+    "name": "GPP_A19 / ISH_GP1",
+    "page": 102
+  },
+  {
+    "pin": "AH10",
+    "name": "CLKOUT_PCIE_P1",
+    "page": 102
+  },
+  {
+    "pin": "B32",
+    "name": "DMI1_TXP",
+    "page": 102
+  },
+  {
+    "pin": "AW37",
+    "name": "GPP_A2 / LAD1 /",
+    "page": 102
+  },
+  {
+    "pin": "AC11",
+    "name": "CLKOUT_PCIE_P10",
+    "page": 102
+  },
+  {
+    "pin": "K32",
+    "name": "DMI2_RXN",
+    "page": 102
+  },
+  {
+    "pin": "BE34",
+    "name": "GPP_A20 / ISH_GP2",
+    "page": 102
+  },
+  {
+    "pin": "AE11",
+    "name": "CLKOUT_PCIE_P11",
+    "page": 102
+  },
+  {
+    "pin": "J32",
+    "name": "DMI2_RXP",
+    "page": 102
+  },
+  {
+    "pin": "BA33",
+    "name": "GPP_A21 / ISH_GP3",
+    "page": 102
+  },
+  {
+    "pin": "AC6",
+    "name": "CLKOUT_PCIE_P12",
+    "page": 102
+  },
+  {
+    "pin": "C31",
+    "name": "DMI2_TXN",
+    "page": 102
+  },
+  {
+    "pin": "AW32",
+    "name": "GPP_A22 / ISH_GP4",
+    "page": 102
+  },
+  {
+    "pin": "Y2",
+    "name": "CLKOUT_PCIE_P13",
+    "page": 102
+  },
+  {
+    "pin": "B31",
+    "name": "DMI2_TXP",
+    "page": 102
+  },
+  {
+    "pin": "AV34",
+    "name": "GPP_A23 / ISH_GP5",
+    "page": 102
+  },
+  {
+    "pin": "T1",
+    "name": "CLKOUT_PCIE_P14",
+    "page": 102
+  },
+  {
+    "pin": "G30",
+    "name": "DMI3_RXN",
+    "page": 102
+  },
+  {
+    "pin": "AV37",
+    "name": "GPP_A3/LAD2/ESPI_IO2",
+    "page": 102
+  },
+  {
+    "pin": "V3",
+    "name": "CLKOUT_PCIE_P15",
+    "page": 102
+  },
+  {
+    "pin": "F30",
+    "name": "DMI3_RXP",
+    "page": 102
+  },
+  {
+    "pin": "AE15",
+    "name": "CLKOUT_PCIE_P2",
+    "page": 102
+  },
+  {
+    "pin": "C29",
+    "name": "DMI3_TXN",
+    "page": 102
+  },
+  {
+    "pin": "AE7",
+    "name": "CLKOUT_PCIE_P3",
+    "page": 102
+  },
+  {
+    "pin": "AC3",
+    "name": "CLKOUT_PCIE_P4",
+    "page": 102
+  },
+  {
+    "pin": "AW41",
+    "name": "DSW_PWROK",
+    "page": 102
+  },
+  {
+    "pin": "BA38",
+    "name": "GPP_A4/LAD3/ ESPI_IO3",
+    "page": 102
+  },
+  {
+    "pin": "BE38",
+    "name": "GPP_A5 / LFRAME# /",
+    "page": 102
+  },
+  {
+    "pin": "B29",
+    "name": "DMI3_TXP",
+    "page": 102
+  },
+  {
+    "pin": "BB46",
+    "name": "DRAM_RESET#",
+    "page": 102
+  },
+  {
+    "pin": "AW35",
+    "name": "GPP_A6 / SERIRQ /",
+    "page": 102
+  },
+  {
+    "pin": "BA36",
+    "name": "GPP_A7 / PIRQA# /",
+    "page": 103
+  },
+  {
+    "pin": "BB36",
+    "name": "GPP_A9 / CLKOUT_LPC0 /",
+    "page": 103
+  },
+  {
+    "pin": "BE29",
+    "name": "GPP_B0 / GSPI0_CS1#",
+    "page": 103
+  },
+  {
+    "pin": "BF33",
+    "name": "GPP_B1 / GSPI1_CS1# /",
+    "page": 103
+  },
+  {
+    "pin": "BF21",
+    "name": "GPP_C18 / I2C1_SDA",
+    "page": 103
+  },
+  {
+    "pin": "BE21",
+    "name": "GPP_C19 / I2C1_SCL",
+    "page": 103
+  },
+  {
+    "pin": "BE25",
+    "name": "GPP_C2 / SMBALERT#",
+    "page": 103
+  },
+  {
+    "pin": "BD20",
+    "name": "GPP_C20 / UART2_RXD",
+    "page": 103
+  },
+  {
+    "pin": "BE15",
+    "name": "GPP_D4 / ISH_I2C2_SDA",
+    "page": 103
+  },
+  {
+    "pin": "BE16",
+    "name": "GPP_D5 / I2S2_SFRM /",
+    "page": 103
+  },
+  {
+    "pin": "BA17",
+    "name": "GPP_D6 / I2S2_TXD /",
+    "page": 103
+  },
+  {
+    "pin": "AW18",
+    "name": "GPP_D7 / I2S2_RXD",
+    "page": 103
+  },
+  {
+    "pin": "AV18",
+    "name": "GPP_D8 / I2S2_SCLK",
+    "page": 103
+  },
+  {
+    "pin": "BE20",
+    "name": "GPP_C21 / UART2_TXD",
+    "page": 103
+  },
+  {
+    "pin": "AN29",
+    "name": "GPP_B10 / SRCCLKREQ5#",
+    "page": 103
+  },
+  {
+    "pin": "AW21",
+    "name": "GPP_C22 / UART2_RTS#",
+    "page": 103
+  },
+  {
+    "pin": "AP29",
+    "name": "GPP_B11 / I2S_MCLK",
+    "page": 103
+  },
+  {
+    "pin": "AV21",
+    "name": "GPP_C23 / UART2_CTS#",
+    "page": 103
+  },
+  {
+    "pin": "BC28",
+    "name": "GPP_B12 / SLP_S0#",
+    "page": 103
+  },
+  {
+    "pin": "BF25",
+    "name": "GPP_C3 / SML0CLK",
+    "page": 103
+  },
+  {
+    "pin": "AV29",
+    "name": "GPP_B13 / PLTRST#",
+    "page": 103
+  },
+  {
+    "pin": "BE24",
+    "name": "GPP_C4 / SML0DATA",
+    "page": 103
+  },
+  {
+    "pin": "BE14",
+    "name": "GPP_D23 / ISH_I2C2_SCL",
+    "page": 103
+  },
+  {
+    "pin": "BF18",
+    "name": "GPP_D3 / SPI1_MOSI /",
+    "page": 103
+  },
+  {
+    "pin": "AW29",
+    "name": "GPP_B14 / SPKR",
+    "page": 103
+  },
+  {
+    "pin": "BF24",
+    "name": "GPP_C5 / SML0ALERT#",
+    "page": 103
+  },
+  {
+    "pin": "BA20",
+    "name": "GPP_D9 / ISH_SPI_CS# /",
+    "page": 103
+  },
+  {
+    "pin": "BB26",
+    "name": "GPP_B15 / GSPI0_CS0#",
+    "page": 103
+  },
+  {
+    "pin": "BF27",
+    "name": "GPP_C6 / SML1CLK",
+    "page": 103
+  },
+  {
+    "pin": "AH41",
+    "name": "GPP_E0 / SATAXPCIE0 /",
+    "page": 103
+  },
+  {
+    "pin": "BF29",
+    "name": "GPP_B16 / GSPI0_CLK",
+    "page": 103
+  },
+  {
+    "pin": "BE27",
+    "name": "GPP_C7 / SML1DATA",
+    "page": 103
+  },
+  {
+    "pin": "BD29",
+    "name": "GPP_B17 / GSPI0_MISO",
+    "page": 103
+  },
+  {
+    "pin": "BE23",
+    "name": "GPP_C8 / UART0_RXD",
+    "page": 103
+  },
+  {
+    "pin": "AJ43",
+    "name": "GPP_E1 / SATAXPCIE1 /",
+    "page": 103
+  },
+  {
+    "pin": "BE30",
+    "name": "GPP_B18 / GSPI0_MOSI",
+    "page": 103
+  },
+  {
+    "pin": "BB24",
+    "name": "GPP_C9 / UART0_TXD",
+    "page": 103
+  },
+  {
+    "pin": "AL40",
+    "name": "GPP_E10 / USB2_OC1#",
+    "page": 103
+  },
+  {
+    "pin": "AW26",
+    "name": "GPP_B19 / GSPI1_CS0#",
+    "page": 103
+  },
+  {
+    "pin": "BF19",
+    "name": "GPP_D0 / SPI1_CS# /",
+    "page": 103
+  },
+  {
+    "pin": "AJ44",
+    "name": "GPP_E11 / USB2_OC2#",
+    "page": 103
+  },
+  {
+    "pin": "BE32",
+    "name": "GPP_B2 / VRALERT#",
+    "page": 103
+  },
+  {
+    "pin": "AL41",
+    "name": "GPP_E12 / USB2_OC3#",
+    "page": 103
+  },
+  {
+    "pin": "BE19",
+    "name": "GPP_D1 / SPI1_CLK /",
+    "page": 103
+  },
+  {
+    "pin": "AU26",
+    "name": "GPP_B20 / GSPI1_CLK",
+    "page": 103
+  },
+  {
+    "pin": "AK47",
+    "name": "GPP_E2 / SATAXPCIE2 /",
+    "page": 103
+  },
+  {
+    "pin": "BD30",
+    "name": "GPP_B21 / GSPI1_MISO",
+    "page": 103
+  },
+  {
+    "pin": "BB20",
+    "name": "GPP_D10 / ISH_SPI_CLK /",
+    "page": 103
+  },
+  {
+    "pin": "AL47",
+    "name": "GPP_E3 / CPU_GP0",
+    "page": 103
+  },
+  {
+    "pin": "BA26",
+    "name": "GPP_B22 / GSPI1_MOSI",
+    "page": 103
+  },
+  {
+    "pin": "BB16",
+    "name": "GPP_D11 / ISH_SPI_MISO",
+    "page": 103
+  },
+  {
+    "pin": "AL48",
+    "name": "GPP_E4 / SATA_DEVSLP0",
+    "page": 103
+  },
+  {
+    "pin": "AH35",
+    "name": "GPP_E5 / SATA_DEVSLP1",
+    "page": 103
+  },
+  {
+    "pin": "AN18",
+    "name": "GPP_D12 / ISH_SPI_MOSI",
+    "page": 103
+  },
+  {
+    "pin": "AH40",
+    "name": "GPP_E6 / SATA_DEVSLP2",
+    "page": 103
+  },
+  {
+    "pin": "AM45",
+    "name": "GPP_E7 / CPU_GP1",
+    "page": 103
+  },
+  {
+    "pin": "BE17",
+    "name": "GPP_D13 /",
+    "page": 103
+  },
+  {
+    "pin": "AK48",
+    "name": "GPP_E8 / SATALED#",
+    "page": 103
+  },
+  {
+    "pin": "AH36",
+    "name": "GPP_E9 / USB2_OC0#",
+    "page": 103
+  },
+  {
+    "pin": "BF17",
+    "name": "GPP_D14 /",
+    "page": 103
+  },
+  {
+    "pin": "AN47",
+    "name": "GPP_F0 / SATAXPCIE3 /",
+    "page": 103
+  },
+  {
+    "pin": "AR18",
+    "name": "GPP_D15 /",
+    "page": 103
+  },
+  {
+    "pin": "AM46",
+    "name": "GPP_F1 / SATAXPCIE4 /",
+    "page": 103
+  },
+  {
+    "pin": "AR42",
+    "name": "GPP_F10 / SATA_SCLOCK",
+    "page": 103
+  },
+  {
+    "pin": "BF14",
+    "name": "GPP_D16 /",
+    "page": 103
+  },
+  {
+    "pin": "BD33",
+    "name": "GPP_B23 / SML1ALERT# /",
+    "page": 103
+  },
+  {
+    "pin": "BF32",
+    "name": "GPP_B3 / CPU_GP2",
+    "page": 103
+  },
+  {
+    "pin": "BC33",
+    "name": "GPP_B4 / CPU_GP3",
+    "page": 103
+  },
+  {
+    "pin": "BF31",
+    "name": "GPP_B5 / SRCCLKREQ0#",
+    "page": 103
+  },
+  {
+    "pin": "BE31",
+    "name": "GPP_B6 / SRCCLKREQ1#",
+    "page": 103
+  },
+  {
+    "pin": "AR32",
+    "name": "GPP_B7 / SRCCLKREQ2#",
+    "page": 103
+  },
+  {
+    "pin": "BB30",
+    "name": "GPP_B8 / SRCCLKREQ3#",
+    "page": 103
+  },
+  {
+    "pin": "BA30",
+    "name": "GPP_B9 / SRCCLKREQ4#",
+    "page": 103
+  },
+  {
+    "pin": "BE26",
+    "name": "GPP_C0 / SMBCLK",
+    "page": 103
+  },
+  {
+    "pin": "BF26",
+    "name": "GPP_C1 / SMBDATA",
+    "page": 103
+  },
+  {
+    "pin": "BA24",
+    "name": "GPP_C10 / UART0_RTS#",
+    "page": 103
+  },
+  {
+    "pin": "AP24",
+    "name": "GPP_C11 / UART0_CTS#",
+    "page": 103
+  },
+  {
+    "pin": "AR48",
+    "name": "GPP_F11 / SATA_SLOAD",
+    "page": 103
+  },
+  {
+    "pin": "AU46",
+    "name": "GPP_F12 /",
+    "page": 103
+  },
+  {
+    "pin": "AW15",
+    "name": "GPP_D17 / DMIC_CLK1 /",
+    "page": 103
+  },
+  {
+    "pin": "AU47",
+    "name": "GPP_F13 /",
+    "page": 103
+  },
+  {
+    "pin": "AU24",
+    "name": "GPP_C12 / UART1_RXD /",
+    "page": 103
+  },
+  {
+    "pin": "AV16",
+    "name": "GPP_D18 / DMIC_DATA1 /",
+    "page": 103
+  },
+  {
+    "pin": "AP41",
+    "name": "GPP_F14 / PS_ON#",
+    "page": 103
+  },
+  {
+    "pin": "AP21",
+    "name": "GPP_C13 / UART1_TXD /",
+    "page": 103
+  },
+  {
+    "pin": "BD16",
+    "name": "GPP_D19 / DMIC_CLK0 /",
+    "page": 103
+  },
+  {
+    "pin": "AV47",
+    "name": "GPP_F15 / USB2_OC4#",
+    "page": 103
+  },
+  {
+    "pin": "BE18",
+    "name": "GPP_D2 / SPI1_MISO /",
+    "page": 103
+  },
+  {
+    "pin": "AR35",
+    "name": "GPP_F16 / USB2_OC5#",
+    "page": 103
+  },
+  {
+    "pin": "AW24",
+    "name": "GPP_C14 / UART1_RTS# /",
+    "page": 103
+  },
+  {
+    "pin": "BD21",
+    "name": "GPP_C15 / UART1_CTS# /",
+    "page": 103
+  },
+  {
+    "pin": "BF23",
+    "name": "GPP_C16 / I2C0_SDA",
+    "page": 103
+  },
+  {
+    "pin": "BC22",
+    "name": "GPP_C17 / I2C0_SCL",
+    "page": 103
+  },
+  {
+    "pin": "AR37",
+    "name": "GPP_F17 / USB2_OC6#",
+    "page": 103
+  },
+  {
+    "pin": "BF15",
+    "name": "GPP_D20 / DMIC_DATA0 /",
+    "page": 103
+  },
+  {
+    "pin": "AV43",
+    "name": "GPP_F18 / USB2_OC7#",
+    "page": 103
+  },
+  {
+    "pin": "BD17",
+    "name": "GPP_D21 / SPI1_IO2",
+    "page": 103
+  },
+  {
+    "pin": "AV44",
+    "name": "GPP_F19 / eDP_VDDEN",
+    "page": 103
+  },
+  {
+    "pin": "BC17",
+    "name": "GPP_D22 / SPI1_IO3",
+    "page": 103
+  },
+  {
+    "pin": "AM43",
+    "name": "GPP_F2 / SATAXPCIE5 /",
+    "page": 103
+  },
+  {
+    "pin": "AV46",
+    "name": "GPP_F20 / eDP_BKLTEN",
+    "page": 104
+  },
+  {
+    "pin": "AC41",
+    "name": "GPP_H4 / SRCCLKREQ10#",
+    "page": 104
+  },
+  {
+    "pin": "AU48",
+    "name": "GPP_F21 / eDP_BKLTCTL",
+    "page": 104
+  },
+  {
+    "pin": "AC39",
+    "name": "GPP_H5 / SRCCLKREQ11#",
+    "page": 104
+  },
+  {
+    "pin": "AT49",
+    "name": "GPP_F22 /",
+    "page": 104
+  },
+  {
+    "pin": "AE39",
+    "name": "GPP_H6 / SRCCLKREQ12#",
+    "page": 104
+  },
+  {
+    "pin": "AN40",
+    "name": "GPP_F23 /",
+    "page": 104
+  },
+  {
+    "pin": "AM47",
+    "name": "GPP_F3 / SATAXPCIE6 /",
+    "page": 104
+  },
+  {
+    "pin": "AM48",
+    "name": "GPP_F4 / SATAXPCIE7 /",
+    "page": 104
+  },
+  {
+    "pin": "AT6",
+    "name": "GPP_I0 / DDPB_HPD0 /",
+    "page": 104
+  },
+  {
+    "pin": "AP48",
+    "name": "GPP_F5 / SATA_DEVSLP3",
+    "page": 104
+  },
+  {
+    "pin": "AN10",
+    "name": "GPP_I1 / DDPC_HPD1 /",
+    "page": 104
+  },
+  {
+    "pin": "AR3",
+    "name": "GPP_I10 /",
+    "page": 104
+  },
+  {
+    "pin": "AP3",
+    "name": "GPP_I11 /",
+    "page": 104
+  },
+  {
+    "pin": "AP2",
+    "name": "GPP_I12 /",
+    "page": 104
+  },
+  {
+    "pin": "AN4",
+    "name": "GPP_I13 /",
+    "page": 104
+  },
+  {
+    "pin": "AB48",
+    "name": "GPP_H7 / SRCCLKREQ13#",
+    "page": 104
+  },
+  {
+    "pin": "AC44",
+    "name": "GPP_H8 / SRCCLKREQ14#",
+    "page": 104
+  },
+  {
+    "pin": "AC43",
+    "name": "GPP_H9 / SRCCLKREQ15#",
+    "page": 104
+  },
+  {
+    "pin": "AU9",
+    "name": "GPP_J9 /",
+    "page": 104
+  },
+  {
+    "pin": "L47",
+    "name": "GPP_K0",
+    "page": 104
+  },
+  {
+    "pin": "L46",
+    "name": "GPP_K1",
+    "page": 104
+  },
+  {
+    "pin": "V48",
+    "name": "GPP_K10",
+    "page": 104
+  },
+  {
+    "pin": "W47",
+    "name": "GPP_K11",
+    "page": 104
+  },
+  {
+    "pin": "Y46",
+    "name": "GPP_K12 / GSXDOUT",
+    "page": 104
+  },
+  {
+    "pin": "Y48",
+    "name": "GPP_K13 / GSXSLOAD",
+    "page": 104
+  },
+  {
+    "pin": "W46",
+    "name": "GPP_K14 / GSXDIN",
+    "page": 104
+  },
+  {
+    "pin": "AA45",
+    "name": "GPP_K15 / GSXSRESET#",
+    "page": 104
+  },
+  {
+    "pin": "AR47",
+    "name": "GPP_F6 / SATA_DEVSLP4",
+    "page": 104
+  },
+  {
+    "pin": "AN46",
+    "name": "GPP_F7 / SATA_DEVSLP5",
+    "page": 104
+  },
+  {
+    "pin": "AN37",
+    "name": "GPP_F8 / SATA_DEVSLP6",
+    "page": 104
+  },
+  {
+    "pin": "AP47",
+    "name": "GPP_F9 / SATA_DEVSLP7",
+    "page": 104
+  },
+  {
+    "pin": "AW13",
+    "name": "GPP_G0 / SD_CMD",
+    "page": 104
+  },
+  {
+    "pin": "BE9",
+    "name": "GPP_G1 / SD_DATA0",
+    "page": 104
+  },
+  {
+    "pin": "BF8",
+    "name": "GPP_G2 / SD_DATA1",
+    "page": 104
+  },
+  {
+    "pin": "AM7",
+    "name": "GPP_I14 /",
+    "page": 104
+  },
+  {
+    "pin": "BF9",
+    "name": "GPP_G3 / SD_DATA2",
+    "page": 104
+  },
+  {
+    "pin": "AP9",
+    "name": "GPP_I2 / DDPD_HPD2 /",
+    "page": 104
+  },
+  {
+    "pin": "BG8",
+    "name": "GPP_G4 / SD_DATA3",
+    "page": 104
+  },
+  {
+    "pin": "AL15",
+    "name": "GPP_I3 / DDPF_HPD3 /",
+    "page": 104
+  },
+  {
+    "pin": "BE8",
+    "name": "GPP_G5 / SD_CD#",
+    "page": 104
+  },
+  {
+    "pin": "AN6",
+    "name": "GPP_I4 / EDP_HPD /",
+    "page": 104
+  },
+  {
+    "pin": "M45",
+    "name": "GPP_K23 / IMGCLKOUT1",
+    "page": 104
+  },
+  {
+    "pin": "BD8",
+    "name": "GPP_G6 / SD_CLK",
+    "page": 104
+  },
+  {
+    "pin": "AV13",
+    "name": "GPP_G7 / SD_WP",
+    "page": 104
+  },
+  {
+    "pin": "AL13",
+    "name": "GPP_I5 / DDPB_CTRLCLK",
+    "page": 104
+  },
+  {
+    "pin": "U47",
+    "name": "GPP_K3",
+    "page": 104
+  },
+  {
+    "pin": "AR8",
+    "name": "GPP_I6 /",
+    "page": 104
+  },
+  {
+    "pin": "N48",
+    "name": "GPP_K4",
+    "page": 104
+  },
+  {
+    "pin": "AE47",
+    "name": "GPP_H0 / SRCCLKREQ6#",
+    "page": 104
+  },
+  {
+    "pin": "N47",
+    "name": "GPP_K5",
+    "page": 104
+  },
+  {
+    "pin": "AC48",
+    "name": "GPP_H1 / SRCCLKREQ7#",
+    "page": 104
+  },
+  {
+    "pin": "AN13",
+    "name": "GPP_I7 / DDPC_CTRLCLK",
+    "page": 104
+  },
+  {
+    "pin": "P47",
+    "name": "GPP_K6",
+    "page": 104
+  },
+  {
+    "pin": "AE48",
+    "name": "GPP_H10 / SML2CLK",
+    "page": 104
+  },
+  {
+    "pin": "R46",
+    "name": "GPP_K7",
+    "page": 104
+  },
+  {
+    "pin": "AD47",
+    "name": "GPP_H11 / SML2DATA",
+    "page": 104
+  },
+  {
+    "pin": "AL10",
+    "name": "GPP_I8 /",
+    "page": 104
+  },
+  {
+    "pin": "AL9",
+    "name": "GPP_I9 / DDPD_CTRLCLK",
+    "page": 104
+  },
+  {
+    "pin": "P48",
+    "name": "GPP_K8",
+    "page": 104
+  },
+  {
+    "pin": "AB47",
+    "name": "GPP_H12 / SML2ALERT#",
+    "page": 104
+  },
+  {
+    "pin": "AF47",
+    "name": "GPP_H13 / SML3CLK",
+    "page": 104
+  },
+  {
+    "pin": "AW3",
+    "name": "GPP_J2",
+    "page": 104
+  },
+  {
+    "pin": "V47",
+    "name": "GPP_K9",
+    "page": 104
+  },
+  {
+    "pin": "BD1",
+    "name": "GPPJ_RCOMP_1P8",
+    "page": 104
+  },
+  {
+    "pin": "AD48",
+    "name": "GPP_H14 / SML3DATA",
+    "page": 104
+  },
+  {
+    "pin": "AT10",
+    "name": "GPP_J3",
+    "page": 104
+  },
+  {
+    "pin": "AC47",
+    "name": "GPP_H15 / SML3ALERT#",
+    "page": 104
+  },
+  {
+    "pin": "AV4",
+    "name": "GPP_J4 / CNV_BRI_DT /",
+    "page": 104
+  },
+  {
+    "pin": "BE1",
+    "name": "GPPJ_RCOMP_1P8",
+    "page": 104
+  },
+  {
+    "pin": "AV6",
+    "name": "GPP_J0 /",
+    "page": 104
+  },
+  {
+    "pin": "BE2",
+    "name": "GPPJ_RCOMP_1P8",
+    "page": 104
+  },
+  {
+    "pin": "AE43",
+    "name": "GPP_H16 / SML4CLK",
+    "page": 104
+  },
+  {
+    "pin": "AJ46",
+    "name": "GPP_H17 / SML4DATA",
+    "page": 104
+  },
+  {
+    "pin": "AY3",
+    "name": "GPP_J1 /",
+    "page": 104
+  },
+  {
+    "pin": "Y47",
+    "name": "GPP_K16 / GSXCLK",
+    "page": 104
+  },
+  {
+    "pin": "R47",
+    "name": "GPP_K17 /",
+    "page": 104
+  },
+  {
+    "pin": "T47",
+    "name": "GPP_K18 / NMI#",
+    "page": 104
+  },
+  {
+    "pin": "T48",
+    "name": "GPP_K19 / SMI#",
+    "page": 104
+  },
+  {
+    "pin": "U48",
+    "name": "GPP_K2",
+    "page": 104
+  },
+  {
+    "pin": "T46",
+    "name": "GPP_K20",
+    "page": 104
+  },
+  {
+    "pin": "T45",
+    "name": "GPP_K21",
+    "page": 104
+  },
+  {
+    "pin": "L48",
+    "name": "GPP_K22 / IMGCLKOUT0",
+    "page": 104
+  },
+  {
+    "pin": "BD11",
+    "name": "HDA_BCLK / I2S0_SCLK",
+    "page": 104
+  },
+  {
+    "pin": "BE10",
+    "name": "HDA_RST# / I2S1_SCLK",
+    "page": 104
+  },
+  {
+    "pin": "AV7",
+    "name": "GPP_J10",
+    "page": 104
+  },
+  {
+    "pin": "BE11",
+    "name": "HDA_SDI0 / I2S0_RXD",
+    "page": 104
+  },
+  {
+    "pin": "AR13",
+    "name": "GPP_J11 /",
+    "page": 104
+  },
+  {
+    "pin": "BF10",
+    "name": "HDA_SDI1 / I2S1_RXD",
+    "page": 104
+  },
+  {
+    "pin": "AY2",
+    "name": "GPP_J5 / CNV_BRI_RSP /",
+    "page": 104
+  },
+  {
+    "pin": "BF12",
+    "name": "HDA_SDO / I2S0_TXD",
+    "page": 104
+  },
+  {
+    "pin": "BG13",
+    "name": "HDA_SYNC / I2S0_SFRM",
+    "page": 104
+  },
+  {
+    "pin": "AH48",
+    "name": "GPP_H21 /",
+    "page": 104
+  },
+  {
+    "pin": "BA4",
+    "name": "GPP_J6 / CNV_RGI_DT /",
+    "page": 104
+  },
+  {
+    "pin": "AM3",
+    "name": "HDACPU_SCLK",
+    "page": 104
+  },
+  {
+    "pin": "AH47",
+    "name": "GPP_H22 / ISH_I2C1_SCL",
+    "page": 104
+  },
+  {
+    "pin": "AV3",
+    "name": "GPP_J7 / CNV_RGI_RSP /",
+    "page": 104
+  },
+  {
+    "pin": "AN3",
+    "name": "HDACPU_SDI",
+    "page": 104
+  },
+  {
+    "pin": "AW2",
+    "name": "GPP_J8 /",
+    "page": 104
+  },
+  {
+    "pin": "AM2",
+    "name": "HDACPU_SDO",
+    "page": 104
+  },
+  {
+    "pin": "AE44",
+    "name": "GPP_H18 / SML4ALERT#",
+    "page": 104
+  },
+  {
+    "pin": "AH46",
+    "name": "GPP_H19 /",
+    "page": 104
+  },
+  {
+    "pin": "AE41",
+    "name": "GPP_H2 / SRCCLKREQ8#",
+    "page": 104
+  },
+  {
+    "pin": "AG45",
+    "name": "GPP_H20 / ISH_I2C0_SCL",
+    "page": 104
+  },
+  {
+    "pin": "AJ47",
+    "name": "GPP_H23 / TIME_SYNC0",
+    "page": 104
+  },
+  {
+    "pin": "AF48",
+    "name": "GPP_H3 / SRCCLKREQ9#",
+    "page": 104
+  },
+  {
+    "pin": "BD12",
+    "name": "I2S1_SFRM / SNDW2_CLK",
+    "page": 104
+  },
+  {
+    "pin": "BE12",
+    "name": "I2S1_TXD / SNDW2_DATA",
+    "page": 105
+  },
+  {
+    "pin": "BB44",
+    "name": "INTRUDER#",
+    "page": 105
+  },
+  {
+    "pin": "C39",
+    "name": "PCIE14_TXN /",
+    "page": 105
+  },
+  {
+    "pin": "D39",
+    "name": "PCIE14_TXP /",
+    "page": 105
+  },
+  {
+    "pin": "F44",
+    "name": "PCIE15_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "U41",
+    "name": "PCIE22_RXP",
+    "page": 105
+  },
+  {
+    "pin": "H47",
+    "name": "PCIE22_TXN",
+    "page": 105
+  },
+  {
+    "pin": "H48",
+    "name": "PCIE22_TXP",
+    "page": 105
+  },
+  {
+    "pin": "W43",
+    "name": "PCIE23_RXN",
+    "page": 105
+  },
+  {
+    "pin": "AL3",
+    "name": "ITP_PMODE",
+    "page": 105
+  },
+  {
+    "pin": "AJ3",
+    "name": "PCH_JTAG_TCK",
+    "page": 105
+  },
+  {
+    "pin": "AH2",
+    "name": "PCH_JTAG_TDI",
+    "page": 105
+  },
+  {
+    "pin": "E45",
+    "name": "PCIE15_RXP / SATA2_RXP",
+    "page": 105
+  },
+  {
+    "pin": "W44",
+    "name": "PCIE23_RXP",
+    "page": 105
+  },
+  {
+    "pin": "AH3",
+    "name": "PCH_JTAG_TDO",
+    "page": 105
+  },
+  {
+    "pin": "B40",
+    "name": "PCIE15_TXN / SATA2_TXN",
+    "page": 105
+  },
+  {
+    "pin": "G49",
+    "name": "PCIE23_TXN",
+    "page": 105
+  },
+  {
+    "pin": "AJ4",
+    "name": "PCH_JTAG_TMS",
+    "page": 105
+  },
+  {
+    "pin": "C40",
+    "name": "PCIE15_TXP / SATA2_TXP",
+    "page": 105
+  },
+  {
+    "pin": "G48",
+    "name": "PCIE23_TXP",
+    "page": 105
+  },
+  {
+    "pin": "AH4",
+    "name": "PCH_JTAGX",
+    "page": 105
+  },
+  {
+    "pin": "Y40",
+    "name": "PCIE24_RXN",
+    "page": 105
+  },
+  {
+    "pin": "AY42",
+    "name": "PCH_PWROK",
+    "page": 105
+  },
+  {
+    "pin": "L41",
+    "name": "PCIE16_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "M40",
+    "name": "PCIE16_RXP / SATA3_RXP",
+    "page": 105
+  },
+  {
+    "pin": "Y41",
+    "name": "PCIE24_RXP",
+    "page": 105
+  },
+  {
+    "pin": "B12",
+    "name": "PCIE_RCOMPN",
+    "page": 105
+  },
+  {
+    "pin": "B41",
+    "name": "PCIE16_TXN / SATA3_TXN",
+    "page": 105
+  },
+  {
+    "pin": "G46",
+    "name": "PCIE24_TXN",
+    "page": 105
+  },
+  {
+    "pin": "A13",
+    "name": "PCIE_RCOMPP",
+    "page": 105
+  },
+  {
+    "pin": "G45",
+    "name": "PCIE24_TXP",
+    "page": 105
+  },
+  {
+    "pin": "G17",
+    "name": "PCIE1_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "K43",
+    "name": "PCIE17_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "K18",
+    "name": "PCIE3_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "F16",
+    "name": "PCIE1_RXP /",
+    "page": 105
+  },
+  {
+    "pin": "K44",
+    "name": "PCIE17_RXP / SATA4_RXP",
+    "page": 105
+  },
+  {
+    "pin": "J18",
+    "name": "PCIE3_RXP /",
+    "page": 105
+  },
+  {
+    "pin": "A17",
+    "name": "PCIE1_TXN /",
+    "page": 105
+  },
+  {
+    "pin": "A42",
+    "name": "PCIE17_TXN / SATA4_TXN",
+    "page": 105
+  },
+  {
+    "pin": "B19",
+    "name": "PCIE3_TXN /",
+    "page": 105
+  },
+  {
+    "pin": "B17",
+    "name": "PCIE1_TXP /",
+    "page": 105
+  },
+  {
+    "pin": "C19",
+    "name": "PCIE3_TXP /",
+    "page": 105
+  },
+  {
+    "pin": "K37",
+    "name": "PCIE10_RXN",
+    "page": 105
+  },
+  {
+    "pin": "N18",
+    "name": "PCIE4_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "R18",
+    "name": "PCIE4_RXP /",
+    "page": 105
+  },
+  {
+    "pin": "D20",
+    "name": "PCIE4_TXN /",
+    "page": 105
+  },
+  {
+    "pin": "C20",
+    "name": "PCIE4_TXP /",
+    "page": 105
+  },
+  {
+    "pin": "F20",
+    "name": "PCIE5_RXN",
+    "page": 105
+  },
+  {
+    "pin": "G20",
+    "name": "PCIE5_RXP",
+    "page": 105
+  },
+  {
+    "pin": "J37",
+    "name": "PCIE10_RXP",
+    "page": 105
+  },
+  {
+    "pin": "C35",
+    "name": "PCIE10_TXN",
+    "page": 105
+  },
+  {
+    "pin": "B35",
+    "name": "PCIE10_TXP",
+    "page": 105
+  },
+  {
+    "pin": "C41",
+    "name": "PCIE16_TXP / SATA3_TXP",
+    "page": 105
+  },
+  {
+    "pin": "B42",
+    "name": "PCIE17_TXP / SATA4_TXP",
+    "page": 105
+  },
+  {
+    "pin": "P41",
+    "name": "PCIE18_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "R40",
+    "name": "PCIE18_RXP / SATA5_RXP",
+    "page": 105
+  },
+  {
+    "pin": "C42",
+    "name": "PCIE18_TXN / SATA5_TXN",
+    "page": 105
+  },
+  {
+    "pin": "D42",
+    "name": "PCIE18_TXP / SATA5_TXP",
+    "page": 105
+  },
+  {
+    "pin": "M44",
+    "name": "PCIE19_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "G38",
+    "name": "PCIE11_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "F39",
+    "name": "PCIE11_RXP /",
+    "page": 105
+  },
+  {
+    "pin": "B36",
+    "name": "PCIE11_TXN /",
+    "page": 105
+  },
+  {
+    "pin": "C36",
+    "name": "PCIE11_TXP /",
+    "page": 105
+  },
+  {
+    "pin": "R21",
+    "name": "PCIE2_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "H42",
+    "name": "PCIE12_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "P21",
+    "name": "PCIE2_RXP /",
+    "page": 105
+  },
+  {
+    "pin": "J41",
+    "name": "PCIE12_RXP /",
+    "page": 105
+  },
+  {
+    "pin": "B18",
+    "name": "PCIE2_TXN /",
+    "page": 105
+  },
+  {
+    "pin": "D38",
+    "name": "PCIE12_TXN /",
+    "page": 105
+  },
+  {
+    "pin": "C18",
+    "name": "PCIE2_TXP /",
+    "page": 105
+  },
+  {
+    "pin": "E37",
+    "name": "PCIE12_TXP /",
+    "page": 105
+  },
+  {
+    "pin": "R35",
+    "name": "PCIE20_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "C45",
+    "name": "PCIE13_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "R37",
+    "name": "PCIE20_RXP / SATA7_RXP",
+    "page": 105
+  },
+  {
+    "pin": "C46",
+    "name": "PCIE13_RXP /",
+    "page": 105
+  },
+  {
+    "pin": "B38",
+    "name": "PCIE13_TXN /",
+    "page": 105
+  },
+  {
+    "pin": "C44",
+    "name": "PCIE19_TXN / SATA6_TXN",
+    "page": 105
+  },
+  {
+    "pin": "C38",
+    "name": "PCIE13_TXP /",
+    "page": 105
+  },
+  {
+    "pin": "D46",
+    "name": "PCIE14_RXN /",
+    "page": 105
+  },
+  {
+    "pin": "C47",
+    "name": "PCIE14_RXP /",
+    "page": 105
+  },
+  {
+    "pin": "N42",
+    "name": "PCIE19_RXP / SATA6_RXP",
+    "page": 105
+  },
+  {
+    "pin": "D43",
+    "name": "PCIE19_TXP / SATA6_TXP",
+    "page": 105
+  },
+  {
+    "pin": "B21",
+    "name": "PCIE5_TXN",
+    "page": 105
+  },
+  {
+    "pin": "A22",
+    "name": "PCIE5_TXP",
+    "page": 105
+  },
+  {
+    "pin": "K21",
+    "name": "PCIE6_RXN",
+    "page": 105
+  },
+  {
+    "pin": "J21",
+    "name": "PCIE6_RXP",
+    "page": 105
+  },
+  {
+    "pin": "D21",
+    "name": "PCIE6_TXN",
+    "page": 105
+  },
+  {
+    "pin": "C21",
+    "name": "PCIE6_TXP",
+    "page": 105
+  },
+  {
+    "pin": "L24",
+    "name": "PCIE7_RXN",
+    "page": 105
+  },
+  {
+    "pin": "J24",
+    "name": "PCIE7_RXP",
+    "page": 105
+  },
+  {
+    "pin": "A44",
+    "name": "PCIE20_TXN / SATA7_TXN",
+    "page": 105
+  },
+  {
+    "pin": "C23",
+    "name": "PCIE7_TXN",
+    "page": 105
+  },
+  {
+    "pin": "B44",
+    "name": "PCIE20_TXP / SATA7_TXP",
+    "page": 105
+  },
+  {
+    "pin": "B23",
+    "name": "PCIE7_TXP",
+    "page": 105
+  },
+  {
+    "pin": "T43",
+    "name": "PCIE21_RXN",
+    "page": 105
+  },
+  {
+    "pin": "R44",
+    "name": "PCIE21_RXP",
+    "page": 105
+  },
+  {
+    "pin": "G47",
+    "name": "PCIE21_TXN",
+    "page": 105
+  },
+  {
+    "pin": "F46",
+    "name": "PCIE21_TXP",
+    "page": 105
+  },
+  {
+    "pin": "U40",
+    "name": "PCIE22_RXN",
+    "page": 105
+  },
+  {
+    "pin": "F24",
+    "name": "PCIE8_RXN",
+    "page": 105
+  },
+  {
+    "pin": "G24",
+    "name": "PCIE8_RXP",
+    "page": 105
+  },
+  {
+    "pin": "B24",
+    "name": "PCIE8_TXN",
+    "page": 105
+  },
+  {
+    "pin": "C24",
+    "name": "PCIE8_TXP",
+    "page": 105
+  },
+  {
+    "pin": "G36",
+    "name": "PCIE9_RXN",
+    "page": 105
+  },
+  {
+    "pin": "F36",
+    "name": "PCIE9_RXP",
+    "page": 106
+  },
+  {
+    "pin": "A25",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "G4",
+    "name": "USB2N_8",
+    "page": 106
+  },
+  {
+    "pin": "C34",
+    "name": "PCIE9_TXN",
+    "page": 106
+  },
+  {
+    "pin": "BE47",
+    "name": "RTCRST#",
+    "page": 106
+  },
+  {
+    "pin": "M6",
+    "name": "USB2N_9",
+    "page": 106
+  },
+  {
+    "pin": "D34",
+    "name": "PCIE9_TXP",
+    "page": 106
+  },
+  {
+    "pin": "BA49",
+    "name": "RTCX1",
+    "page": 106
+  },
+  {
+    "pin": "J2",
+    "name": "USB2P_1",
+    "page": 106
+  },
+  {
+    "pin": "AF2",
+    "name": "PECI",
+    "page": 106
+  },
+  {
+    "pin": "BA48",
+    "name": "RTCX2",
+    "page": 106
+  },
+  {
+    "pin": "H2",
+    "name": "USB2P_10",
+    "page": 106
+  },
+  {
+    "pin": "AG5",
+    "name": "PLTRST_CPU#",
+    "page": 106
+  },
+  {
+    "pin": "BE5",
+    "name": "SD_1P8_RCOMP",
+    "page": 106
+  },
+  {
+    "pin": "P9",
+    "name": "USB2P_11",
+    "page": 106
+  },
+  {
+    "pin": "AE2",
+    "name": "PM_DOWN",
+    "page": 106
+  },
+  {
+    "pin": "BE4",
+    "name": "SD_3P3_RCOMP",
+    "page": 106
+  },
+  {
+    "pin": "G2",
+    "name": "USB2P_12",
+    "page": 106
+  },
+  {
+    "pin": "AF3",
+    "name": "PM_SYNC",
+    "page": 106
+  },
+  {
+    "pin": "BF40",
+    "name": "SLP_LAN#",
+    "page": 106
+  },
+  {
+    "pin": "N2",
+    "name": "USB2P_13",
+    "page": 106
+  },
+  {
+    "pin": "AM5",
+    "name": "PRDY#",
+    "page": 106
+  },
+  {
+    "pin": "BD39",
+    "name": "SLP_SUS#",
+    "page": 106
+  },
+  {
+    "pin": "F6",
+    "name": "USB2P_14",
+    "page": 106
+  },
+  {
+    "pin": "AL2",
+    "name": "PREQ#",
+    "page": 106
+  },
+  {
+    "pin": "AW47",
+    "name": "SPI0_CLK",
+    "page": 106
+  },
+  {
+    "pin": "N15",
+    "name": "USB2P_2",
+    "page": 106
+  },
+  {
+    "pin": "BA47",
+    "name": "RSMRST#",
+    "page": 106
+  },
+  {
+    "pin": "AY47",
+    "name": "SPI0_CS0#",
+    "page": 106
+  },
+  {
+    "pin": "K3",
+    "name": "USB2P_3",
+    "page": 106
+  },
+  {
+    "pin": "BC1",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "AW48",
+    "name": "SPI0_CS1#",
+    "page": 106
+  },
+  {
+    "pin": "L9",
+    "name": "USB2P_4",
+    "page": 106
+  },
+  {
+    "pin": "AH14",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "AT40",
+    "name": "SPI0_CS2#",
+    "page": 106
+  },
+  {
+    "pin": "L2",
+    "name": "USB2P_5",
+    "page": 106
+  },
+  {
+    "pin": "AH15",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "AY48",
+    "name": "SPI0_IO2",
+    "page": 106
+  },
+  {
+    "pin": "K6",
+    "name": "USB2P_6",
+    "page": 106
+  },
+  {
+    "pin": "R32",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "BA46",
+    "name": "SPI0_IO3",
+    "page": 106
+  },
+  {
+    "pin": "L3",
+    "name": "USB2P_7",
+    "page": 106
+  },
+  {
+    "pin": "N32",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "BA45",
+    "name": "SPI0_MISO",
+    "page": 106
+  },
+  {
+    "pin": "G5",
+    "name": "USB2P_8",
+    "page": 106
+  },
+  {
+    "pin": "U35",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "AU41",
+    "name": "SPI0_MOSI",
+    "page": 106
+  },
+  {
+    "pin": "N8",
+    "name": "USB2P_9",
+    "page": 106
+  },
+  {
+    "pin": "U37",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "BD46",
+    "name": "SRTCRST#",
+    "page": 106
+  },
+  {
+    "pin": "D11",
+    "name": "USB31_1_RXN",
+    "page": 106
+  },
+  {
+    "pin": "R15",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "AU3",
+    "name": "SYS_PWROK",
+    "page": 106
+  },
+  {
+    "pin": "C11",
+    "name": "USB31_1_RXP",
+    "page": 106
+  },
+  {
+    "pin": "R13",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "AU2",
+    "name": "SYS_RESET#",
+    "page": 106
+  },
+  {
+    "pin": "F9",
+    "name": "USB31_1_TXN",
+    "page": 106
+  },
+  {
+    "pin": "U13",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "AD3",
+    "name": "THRMTRIP#",
+    "page": 106
+  },
+  {
+    "pin": "F7",
+    "name": "USB31_1_TXP",
+    "page": 106
+  },
+  {
+    "pin": "Y35",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "AL35",
+    "name": "TP",
+    "page": 106
+  },
+  {
+    "pin": "B9",
+    "name": "USB31_2_RXN",
+    "page": 106
+  },
+  {
+    "pin": "Y36",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "AN35",
+    "name": "TP",
+    "page": 106
+  },
+  {
+    "pin": "C9",
+    "name": "USB31_2_RXP",
+    "page": 106
+  },
+  {
+    "pin": "Y15",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "AK2",
+    "name": "TRIGGER_IN",
+    "page": 106
+  },
+  {
+    "pin": "C3",
+    "name": "USB31_2_TXN",
+    "page": 106
+  },
+  {
+    "pin": "Y14",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "AK3",
+    "name": "TRIGGER_OUT",
+    "page": 106
+  },
+  {
+    "pin": "D4",
+    "name": "USB31_2_TXP",
+    "page": 106
+  },
+  {
+    "pin": "M29",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "F4",
+    "name": "USB2_COMP",
+    "page": 106
+  },
+  {
+    "pin": "B10",
+    "name": "USB31_3_RXN",
+    "page": 106
+  },
+  {
+    "pin": "K29",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "G3",
+    "name": "USB2_ID",
+    "page": 106
+  },
+  {
+    "pin": "C10",
+    "name": "USB31_3_RXP",
+    "page": 106
+  },
+  {
+    "pin": "E28",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "F3",
+    "name": "USB2_VBUSSENSE",
+    "page": 106
+  },
+  {
+    "pin": "F11",
+    "name": "USB31_3_TXN",
+    "page": 106
+  },
+  {
+    "pin": "D29",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "J3",
+    "name": "USB2N_1",
+    "page": 106
+  },
+  {
+    "pin": "G12",
+    "name": "USB31_3_TXP",
+    "page": 106
+  },
+  {
+    "pin": "M26",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "H3",
+    "name": "USB2N_10",
+    "page": 106
+  },
+  {
+    "pin": "K16",
+    "name": "USB31_4_RXN",
+    "page": 106
+  },
+  {
+    "pin": "L26",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "R10",
+    "name": "USB2N_11",
+    "page": 106
+  },
+  {
+    "pin": "J15",
+    "name": "USB31_4_RXP",
+    "page": 106
+  },
+  {
+    "pin": "C27",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "G1",
+    "name": "USB2N_12",
+    "page": 106
+  },
+  {
+    "pin": "B14",
+    "name": "USB31_4_TXN",
+    "page": 106
+  },
+  {
+    "pin": "B27",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "N3",
+    "name": "USB2N_13",
+    "page": 106
+  },
+  {
+    "pin": "C14",
+    "name": "USB31_4_TXP",
+    "page": 106
+  },
+  {
+    "pin": "G26",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "E5",
+    "name": "USB2N_14",
+    "page": 106
+  },
+  {
+    "pin": "J13",
+    "name": "USB31_5_RXN",
+    "page": 106
+  },
+  {
+    "pin": "F26",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "N13",
+    "name": "USB2N_2",
+    "page": 106
+  },
+  {
+    "pin": "K13",
+    "name": "USB31_5_RXP",
+    "page": 106
+  },
+  {
+    "pin": "B26",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "K4",
+    "name": "USB2N_3",
+    "page": 106
+  },
+  {
+    "pin": "C15",
+    "name": "USB31_5_TXN",
+    "page": 106
+  },
+  {
+    "pin": "C26",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "M10",
+    "name": "USB2N_4",
+    "page": 106
+  },
+  {
+    "pin": "B15",
+    "name": "USB31_5_TXP",
+    "page": 106
+  },
+  {
+    "pin": "R24",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "M1",
+    "name": "USB2N_5",
+    "page": 106
+  },
+  {
+    "pin": "G14",
+    "name": "USB31_6_RXN",
+    "page": 106
+  },
+  {
+    "pin": "P24",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "K7",
+    "name": "USB2N_6",
+    "page": 106
+  },
+  {
+    "pin": "F14",
+    "name": "USB31_6_RXP",
+    "page": 106
+  },
+  {
+    "pin": "B25",
+    "name": "RSVD",
+    "page": 106
+  },
+  {
+    "pin": "L4",
+    "name": "USB2N_7",
+    "page": 106
+  },
+  {
+    "pin": "C17",
+    "name": "USB31_6_TXN",
+    "page": 106
+  },
+  {
+    "pin": "C16",
+    "name": "USB31_6_TXP",
+    "page": 107
+  },
+  {
+    "pin": "AG31",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "W31",
+    "name": "VCCPRIM_MPHY_1P05",
+    "page": 107
+  },
+  {
+    "pin": "V19",
+    "name": "VCCA_BCLK_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AK22",
+    "name": "VCCDPHY_1P24",
+    "page": 107
+  },
+  {
+    "pin": "BC49",
+    "name": "VCCRTC",
+    "page": 107
+  },
+  {
+    "pin": "W19",
+    "name": "VCCA_SRC_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AK23",
+    "name": "VCCDPHY_1P24",
+    "page": 107
+  },
+  {
+    "pin": "BD49",
+    "name": "VCCRTC",
+    "page": 107
+  },
+  {
+    "pin": "W20",
+    "name": "VCCA_SRC_1P05",
+    "page": 107
+  },
+  {
+    "pin": "U26",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AN44",
+    "name": "VCCSPI",
+    "page": 107
+  },
+  {
+    "pin": "P2",
+    "name": "VCCA_XTAL_1P05",
+    "page": 107
+  },
+  {
+    "pin": "U29",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AL37",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "P3",
+    "name": "VCCA_XTAL_1P05",
+    "page": 107
+  },
+  {
+    "pin": "V25",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "A2",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "C49",
+    "name": "VCCAMPHYPLL_1P05",
+    "page": 107
+  },
+  {
+    "pin": "V27",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "A28",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "D49",
+    "name": "VCCAMPHYPLL_1P05",
+    "page": 107
+  },
+  {
+    "pin": "V28",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "A3",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "E49",
+    "name": "VCCAMPHYPLL_1P05",
+    "page": 107
+  },
+  {
+    "pin": "V30",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "A33",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "B1",
+    "name": "VCCAPLL_1P05",
+    "page": 107
+  },
+  {
+    "pin": "V31",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "A37",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "B2",
+    "name": "VCCAPLL_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AA22",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "A4",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "B3",
+    "name": "VCCAPLL_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AA23",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "A45",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "C1",
+    "name": "VCCAPLL_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AB20",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "A46",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "C2",
+    "name": "VCCAPLL_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AB22",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "A47",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AJ22",
+    "name": "VCCDPHY_1P24",
+    "page": 107
+  },
+  {
+    "pin": "AB23",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "A48",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AJ23",
+    "name": "VCCDPHY_1P24",
+    "page": 107
+  },
+  {
+    "pin": "AB27",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "A5",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "BG5",
+    "name": "VCCDPHY_1P24",
+    "page": 107
+  },
+  {
+    "pin": "AB28",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "A8",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "BG45",
+    "name": "VCCDSW_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AB30",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AA19",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "BG46",
+    "name": "VCCDSW_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AD20",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AA20",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "BE48",
+    "name": "VCCDSW_3P3",
+    "page": 107
+  },
+  {
+    "pin": "AD23",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AA25",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "BE49",
+    "name": "VCCDSW_3P3",
+    "page": 107
+  },
+  {
+    "pin": "AD27",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AA27",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "W22",
+    "name": "VCCDUSB_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AD28",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AA28",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "W23",
+    "name": "VCCDUSB_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AD30",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AA30",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "BB14",
+    "name": "VCCHDA",
+    "page": 107
+  },
+  {
+    "pin": "AF23",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AA31",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "K47",
+    "name": "VCCMPHY_SENSE",
+    "page": 107
+  },
+  {
+    "pin": "AF27",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AA49",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AN32",
+    "name": "VCCPGPPA",
+    "page": 107
+  },
+  {
+    "pin": "AF30",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AA5",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AN26",
+    "name": "VCCPGPPBC",
+    "page": 107
+  },
+  {
+    "pin": "AE17",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AB19",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AP26",
+    "name": "VCCPGPPBC",
+    "page": 107
+  },
+  {
+    "pin": "AD31",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AB25",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AN24",
+    "name": "VCCPGPPD",
+    "page": 107
+  },
+  {
+    "pin": "AG19",
+    "name": "VCCPRIM_1P8",
+    "page": 107
+  },
+  {
+    "pin": "AB31",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AE35",
+    "name": "VCCPGPPEF",
+    "page": 107
+  },
+  {
+    "pin": "AG20",
+    "name": "VCCPRIM_1P8",
+    "page": 107
+  },
+  {
+    "pin": "AC12",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AE36",
+    "name": "VCCPGPPEF",
+    "page": 107
+  },
+  {
+    "pin": "AN15",
+    "name": "VCCPRIM_1P8",
+    "page": 107
+  },
+  {
+    "pin": "AC17",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AN21",
+    "name": "VCCPGPPG_3P3",
+    "page": 107
+  },
+  {
+    "pin": "AR15",
+    "name": "VCCPRIM_1P8",
+    "page": 107
+  },
+  {
+    "pin": "AC33",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AC35",
+    "name": "VCCPGPPHK",
+    "page": 107
+  },
+  {
+    "pin": "BB11",
+    "name": "VCCPRIM_1P8",
+    "page": 107
+  },
+  {
+    "pin": "AC38",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AC36",
+    "name": "VCCPGPPHK",
+    "page": 107
+  },
+  {
+    "pin": "AT44",
+    "name": "VCCPRIM_3P3",
+    "page": 107
+  },
+  {
+    "pin": "AC4",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AF19",
+    "name": "VCCPHVLDO_1P8",
+    "page": 107
+  },
+  {
+    "pin": "AW9",
+    "name": "VCCPRIM_3P3",
+    "page": 107
+  },
+  {
+    "pin": "AC46",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AF20",
+    "name": "VCCPHVLDO_1P8",
+    "page": 107
+  },
+  {
+    "pin": "AY8",
+    "name": "VCCPRIM_3P3",
+    "page": 107
+  },
+  {
+    "pin": "AD1",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "D1",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "BB7",
+    "name": "VCCPRIM_3P3",
+    "page": 107
+  },
+  {
+    "pin": "AD19",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "E1",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "V23",
+    "name": "VCCPRIM_3P3",
+    "page": 107
+  },
+  {
+    "pin": "AD2",
+    "name": "VSS",
+    "page": 107
+  },
+  {
+    "pin": "AF31",
+    "name": "VCCPRIM_1P05",
+    "page": 107
+  },
+  {
+    "pin": "AD22",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AL12",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "B48",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AD25",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AL17",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "B49",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AD49",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AL21",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BA12",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AE12",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AL24",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BA14",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AE33",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AL26",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BA44",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AE38",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AL29",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BA5",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AE4",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AL33",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BA6",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AE46",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AL38",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BB41",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AF22",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AM1",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BB43",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AF25",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AM18",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BB9",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AF28",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AM32",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BC10",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AG1",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AM49",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BC13",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AG22",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AN12",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BC15",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AG23",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AN16",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BC19",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AG25",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AN34",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BC24",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AG27",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AN38",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BC26",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AG28",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AP4",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BC31",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AG30",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AP46",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BC35",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AG49",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AR12",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BC40",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AH12",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AR16",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BC45",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AH17",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AR34",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BC8",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AH33",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AR38",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BD43",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AH38",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AT1",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BE44",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AJ19",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AT16",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BF1",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AJ20",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AT18",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BF2",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AJ25",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AT21",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BF3",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AJ27",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AT24",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BF48",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AJ28",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AT26",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BF49",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AJ30",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AT29",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BG17",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AJ31",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AT32",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BG2",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AK19",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AT34",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BG22",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AK20",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AT45",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BG25",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AK25",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AV11",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BG28",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AK27",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AV39",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BG3",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AK28",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AW10",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BG33",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AK30",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AW4",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BG37",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AK31",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AW40",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BG4",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AK4",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AW46",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "BG48",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "AK46",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "B47",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "C12",
+    "name": "VSS",
+    "page": 108
+  },
+  {
+    "pin": "C25",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "J48",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "U15",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "C30",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "J9",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "U17",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "C4",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "K11",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "U21",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "C48",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "K39",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "U24",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "C5",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "M16",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "U33",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "D12",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "M18",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "U38",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "D16",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "M21",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "V20",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "D17",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "M24",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "V22",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "D30",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "M32",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "V4",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "D33",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "M34",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "V46",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "D8",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "M49",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "W25",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "E10",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "M5",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "W27",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "E13",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "N12",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "W28",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "E15",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "N16",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "W30",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "E17",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "N34",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "Y10",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "E19",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "N35",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "Y12",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "E22",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "N37",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "Y17",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "E24",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "N38",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "Y33",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "E26",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "P26",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "Y38",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "E31",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "P29",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "Y9",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "E33",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "P4",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "K46",
+    "name": "VSSMPHY_SENSE",
+    "page": 109
+  },
+  {
+    "pin": "E35",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "P46",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "BB47",
+    "name": "WAKE#",
+    "page": 109
+  },
+  {
+    "pin": "E40",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "R12",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "T3",
+    "name": "XCLK_BIASREF",
+    "page": 109
+  },
+  {
+    "pin": "E42",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "R16",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "U10",
+    "name": "XTAL_IN",
+    "page": 109
+  },
+  {
+    "pin": "E8",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "R26",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "U9",
+    "name": "XTAL_OUT",
+    "page": 109
+  },
+  {
+    "pin": "F41",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "R29",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "F43",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "R3",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "F47",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "R34",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "G44",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "R38",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "G6",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "R4",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "H8",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "T17",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "J10",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "T18",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "J26",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "T32",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "J29",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "T4",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "J4",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "T49",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "J40",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "T5",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "J46",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "T7",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "J47",
+    "name": "VSS",
+    "page": 109
+  },
+  {
+    "pin": "U12",
+    "name": "VSS",
+    "page": 109
+  }
+]

@@ -1,0 +1,8 @@
+(footprint "L_PLACEMENT_ONLY" (version 20241229) (generator "pcbnew") (layer "F.Cu")
+ (descr "UNVERIFIED envelope only; no pads; replace before routing or fabrication")
+ (attr smd exclude_from_pos_files exclude_from_bom)
+ (fp_text reference "REF**" (at 0 -6.0) (layer "F.SilkS") (effects (font (size 1 1) (thickness .15))))
+ (fp_text value "L_PLACEMENT_ONLY" (at 0 6.0) (layer "F.Fab") (effects (font (size 1 1) (thickness .15))))
+ (fp_rect (start -4.0 -4.0) (end 4.0 4.0) (stroke (width .15) (type default)) (fill none) (layer "F.Fab"))
+ (fp_rect (start -4.5 -4.5) (end 4.5 4.5) (stroke (width .05) (type default)) (fill none) (layer "F.CrtYd"))
+ (fp_text user "NO PADS - ENVELOPE ONLY" (at 0 0) (layer "F.Fab") (effects (font (size .6 .6) (thickness .1)))))
